@@ -1,0 +1,1307 @@
+patient_id,name,age,gender,conditions,medications
+aaa4c718-2f48-4c13-9ad0-d287cf280824,Angelo Buckridge,82,M,"arthritis, diabetes, stroke","naproxen, metformin, clopidogrel"
+a1851c06-804e-4f31-9d8f-388cd52d4ad0,Cami Terry,71,F,"hypertension, diabetes, osteoporosis, coronary heart disease, myocardial infarction","amlodipine, metformin, alendronic, atorvastatin, clopidogrel"
+48074b70-4db4-4ab0-b9e8-361bd2ba6216,Giovanni Russel,90,M,"hypertension, diabetes, arthritis, alzheimer, coronary heart disease","amlodipine, metformin, naproxen, donepezil, atorvastatin"
+a4a67345-d7e5-4246-8e06-ed043a9764e2,Kendrick Watsica,89,M,"hypertension, arthritis, diabetes, stroke","amlodipine, naproxen, metformin, clopidogrel"
+53244745-9198-41c8-83b7-1647d98cc618,Major D'Amore,87,M,"diabetes, alzheimer","metformin, donepezil"
+90ab3acb-46b7-40d2-b66c-a04022cee236,Maurine Kling,89,F,"hypertension, primary fibromyalgia syndrome, osteoporosis","amlodipine, duloxetine, alendronic"
+0bcc9845-c873-492e-96e1-9771ebcbc2df,Eldridge Hammes,86,M,"diabetes, stroke","metformin, clopidogrel"
+0b763e21-2a8f-4f04-86d2-f7e8f9cebb21,Walter Bahringer,70,M,"hypertension, asthma, diabetes, arthritis","amlodipine, fluticasone, metformin, naproxen"
+15c152a3-9da5-4287-a502-979a6dbb72ff,Filiberto Kunde,87,M,hypertension,amlodipine
+6590902c-4450-488c-8760-fa57d0b7422f,Marsha Batz,84,F,"diabetes, diabetic renal disease","metformin, insulin"
+2ff59946-e6d0-492e-8704-a98296eedd4c,Berry Keebler,28,M,allergic_rhinitis,fexofenadine
+99ca7d85-4dd4-446a-a200-b65a4dee5756,Gertrud Roob,71,F,osteoporosis,alendronic
+a5258466-488d-4c0f-b1ab-33a3275e9d63,Oswaldo Abernathy,69,M,"hypertension, diabetes, coronary heart disease, myocardial infarction","amlodipine, metformin, atorvastatin, clopidogrel"
+4c1a3b02-acfe-4c31-8182-7e1aaf633bc4,Huey Pfannerstill,102,M,"diabetes, alzheimer, stroke, coronary heart disease, osteoporosis","metformin, donepezil, clopidogrel, atorvastatin, alendronic"
+e1708a54-82df-4167-9eb8-ad5d66a9c0c7,Marcel Keeling,76,M,"hypertension, alzheimer, stroke","amlodipine, donepezil, clopidogrel"
+179542aa-1a22-401d-9795-f3fd73e5dced,Wilmer Koepp,60,M,pulmonary emphysema,fluticasone
+684887d3-1080-4b73-bef9-e78595722f01,Bella Rolfson,62,F,,
+26b5fb68-32a2-47fe-a1e4-12db200d5b68,Otto Sporer,98,M,"osteoporosis, alzheimer","alendronic, donepezil"
+5d50844c-252e-4b2f-9397-b2371fb4123d,Arnold Grant,101,M,"hypertension, coronary heart disease","amlodipine, atorvastatin"
+065b21a6-da8a-4f17-9d45-0fc820e91de8,Robin Hartmann,99,F,"hypertension, diabetes, coronary heart disease, alzheimer","amlodipine, metformin, atorvastatin, donepezil"
+2c884d0f-62a1-4371-becc-36a98cdc4f52,Tammara Stamm,104,F,"diabetes, osteoporosis","metformin, alendronic"
+e17ad385-64d8-4266-8300-26108998f947,Lorie Cruickshank,84,F,"hypertension, diabetes, arthritis","amlodipine, metformin, naproxen"
+bc6fbe62-116e-424f-943c-bae29fa9f319,Nestor Dibbert,92,M,"diabetes, diabetic renal disease, hypertension, stroke, osteoporosis","metformin, insulin, amlodipine, clopidogrel, alendronic"
+e6e63adb-9c2a-4f7a-ade9-3b89ff862a03,Wesley Blanda,88,F,"hypertension, diabetes, osteoporosis, alzheimer, arthritis","amlodipine, metformin, alendronic, donepezil, naproxen"
+85a0e9a4-afd3-47db-8007-7ba43a8fbddc,Jenna Stark,58,F,"hypertension, diabetes","amlodipine, metformin"
+a83957db-3e38-4fd4-a4bb-aca5f2090b80,Anabel Considine,93,F,,
+305cc84e-43f3-4f53-a066-645c117652f5,Milo Grimes,67,M,,
+daf1bb6a-9cba-4289-9fef-14c061c44347,Barbra Rosenbaum,63,F,,
+093c5b43-9b43-40a4-8cb6-ba2292cba7c0,Dario Tromp,106,M,"hypertension, diabetes, arthritis, stroke, osteoporosis, coronary heart disease","amlodipine, metformin, naproxen, clopidogrel, alendronic, atorvastatin"
+cc74c757-dfb4-4c16-a442-1b73b87d419d,Ricarda Wuckert,104,F,"arthritis, osteoporosis","naproxen, alendronic"
+454216f3-6d7e-426e-8c96-ffa5ffe25e42,Bert Rolfson,79,M,"hypertension, diabetes, coronary heart disease, diabetic renal disease, myocardial infarction","amlodipine, metformin, atorvastatin, insulin, clopidogrel"
+6da01ff4-9dfc-4da9-b9f9-75a4086685c3,Bernardina Greenfelder,87,F,"hypertension, diabetes","amlodipine, metformin"
+82c174eb-7259-4c8b-be02-9c41174900c7,Orlando McDermott,91,M,"hypertension, diabetes, stroke, coronary heart disease, alzheimer","amlodipine, metformin, clopidogrel, atorvastatin, donepezil"
+76c2608b-8134-4316-a336-7d3a01323488,Delbert Effertz,106,M,,
+1ea6bd42-9609-427b-9899-7ec986e203ef,Adrianne Rodriguez,78,F,"hypertension, diabetes","amlodipine, metformin"
+9ec4c3d2-f84f-4a64-b1c0-f88db1e36513,Elia Jakubowski,48,F,"hypertension, diabetes","amlodipine, metformin"
+af7c4d94-3524-4c7b-b8c0-fb774c9e5b6d,Neal Morissette,92,M,alzheimer,donepezil
+ba6c2ed3-855f-4e0d-ae2d-6a4fa034b9f8,Bennie Hermann,21,M,,
+fc69629e-7bb6-43a5-814c-f8381e348511,Marvin Trantow,84,M,"diabetes, coronary heart disease, myocardial infarction","metformin, atorvastatin, clopidogrel"
+3ef7e881-6e78-429e-825e-76065cdb0f41,Jann Dickens,90,F,"diabetes, osteoporosis, arthritis","metformin, alendronic, naproxen"
+67e2a5d5-eae2-49bf-968c-c48e41de6aa1,Bella Mitchell,105,F,"hypertension, diabetes, arthritis, alzheimer","amlodipine, metformin, naproxen, donepezil"
+045e2f8e-5bbd-4776-9a84-43ba02cea3ba,Le Ledner,63,F,"hypertension, diabetes","amlodipine, metformin"
+44c77449-072b-4559-8608-dc28f4647379,Dallas Spencer,66,M,"hypertension, diabetes","amlodipine, metformin"
+8b3cf0c5-affd-4cbb-a397-e63484ba4d47,Dorian Kovacek,86,F,"diabetes, diabetic renal disease, hypertension, alzheimer","metformin, insulin, amlodipine, donepezil"
+524ab153-ea8d-4152-918d-dc94297d80e1,Lauran Emard,79,F,hypertension,amlodipine
+88be26f1-ab2e-4915-87f7-ec6d0cdee0fb,Toby Grant,82,M,"hypertension, stroke","amlodipine, clopidogrel"
+62ce4159-e345-4c71-b9c4-2537987078a1,Johnny Simonis,73,M,"diabetes, coronary heart disease","metformin, atorvastatin"
+a37c010a-f678-4500-95e9-d728f8b87941,Gabrielle Kub,83,F,"diabetes, stroke","metformin, clopidogrel"
+80895abb-8bb8-472b-a22f-762d017d099d,Kourtney Goodwin,92,F,osteoporosis,alendronic
+fae141ca-fa4e-487d-8562-38a1d4b27ad8,Jerald Hilpert,53,M,"coronary heart disease, diabetes, myocardial infarction","atorvastatin, metformin, clopidogrel"
+893ec525-58d1-49db-853f-8bd427def4b9,Antoine Block,55,M,,
+d871e7f4-b18d-4e4a-8fbb-f1d2c101efc5,Vonda Nicolas,92,F,,
+18a225df-378e-419a-8aff-bc03ab654103,Mickey Pacocha,104,M,diabetes,metformin
+d08b84b0-560c-487f-a17b-e9c8fb34babf,Xavier Krajcik,65,M,,
+25b07dc6-688b-44a1-98fc-a798a8a33589,Joanna Beahan,62,F,diabetes,metformin
+de5deae8-3379-4bd1-8cf7-e48b5e61212b,Andres Sipes,66,M,diabetes,metformin
+ea17954b-00b7-4b95-92e6-09487b7718d7,Earnestine Monahan,105,F,"hypertension, stroke, osteoporosis","amlodipine, clopidogrel, alendronic"
+cdbe1927-b954-4f37-9294-ac0ca277d147,Jamaal Tromp,100,M,"diabetes, arthritis, alzheimer","metformin, naproxen, donepezil"
+2efd5b17-e027-44cb-9520-795df4cd0227,Marco Conroy,96,M,"hypertension, diabetes, pulmonary emphysema","amlodipine, metformin, fluticasone"
+353c5ff1-6970-4dba-ae96-1f69fb02f23e,Dena Kutch,56,F,diabetes,metformin
+14d1eeda-429d-46ee-b104-72adfaca22a5,Aiko Brown,108,F,"asthma, stroke, osteoporosis","fluticasone, clopidogrel, alendronic"
+d523e818-61aa-4b84-8ec3-e7f14ee28bfa,Dierdre Fritsch,105,F,"diabetes, osteoporosis","metformin, alendronic"
+5823c3f5-d043-494e-a62f-86ec909e51bb,Maurice Bins,80,M,osteoporosis,alendronic
+a0312cb4-bebe-4dfe-8b9d-2e7aa1c9d76c,Shanice Schoen,98,F,"diabetes, alzheimer","metformin, donepezil"
+a3dcf253-6386-416b-af77-60e21d1bc040,Elna Kozey,72,F,arthritis,naproxen
+5d3d92d6-c7c4-40ff-8575-6be55ad34864,Edris Wiegand,75,F,osteoporosis,alendronic
+de9c2eb4-762b-420f-b8ca-fbe271a4e709,Rubin Thiel,72,M,hypertension,amlodipine
+6d66c6a6-8b0d-47c0-a573-b78ec8ceec63,Mack Orn,87,M,"hypertension, diabetes","amlodipine, metformin"
+7793c5f2-8a82-4f73-a820-46767ee4f0c1,Tien Turner,31,F,,
+ca805fdc-5763-4140-977c-0b84eec8c41d,Kathryn Schneider,98,F,"hypertension, diabetes, stroke, diabetic renal disease","amlodipine, metformin, clopidogrel, insulin"
+2bbaedc8-d765-4950-bfc2-32b16713934c,Shanita Streich,99,F,diabetes,metformin
+476f31fb-e840-49ee-897a-6fd77b9621a5,Eric Walsh,97,M,"hypertension, diabetes, stroke, osteoporosis, coronary heart disease","amlodipine, metformin, clopidogrel, alendronic, atorvastatin"
+c5b58cfb-c631-4574-bc64-24697c7eccee,Bo Sanford,102,M,"diabetes, osteoporosis","metformin, alendronic"
+2e1644ee-f7ca-4700-9b8a-ceb5bfb3efd2,Jake Johns,98,M,"hypertension, diabetes, coronary heart disease, osteoporosis","amlodipine, metformin, atorvastatin, alendronic"
+ea3c8e57-2761-451d-8427-214662a8a108,Mari MacGyver,101,F,asthma,fluticasone
+c383f814-9ee4-4ca8-a0ff-ee1369f8d2ee,Kraig Gerhold,80,M,"osteoporosis, arthritis","alendronic, naproxen"
+4b71c2cd-a861-4985-92f9-f3a38b9586fb,Melodi Feil,77,F,"hypertension, diabetes","amlodipine, metformin"
+936bc523-a5bb-479c-a347-6bf2de9c9413,Sharon Carroll,77,F,"seizure disorder, stroke, diabetes","carbamazepine, clopidogrel, metformin"
+31410948-38be-4990-be5e-a47ab44f33a1,Margarita Wunsch,104,F,"diabetes, arthritis, osteoporosis","metformin, naproxen, alendronic"
+7499f631-0dd6-4fb7-b167-42bc96d6f1a2,Maurice Kshlerin,88,M,"diabetes, alzheimer, coronary heart disease","metformin, donepezil, atorvastatin"
+a1623797-76be-4d1a-9275-03e15da570c1,Retta Kertzmann,101,F,arthritis,naproxen
+90e7f959-f0ec-4e9e-bce8-ca0a7d0e6a1f,Luther Brown,94,M,"stroke, diabetes, alzheimer","clopidogrel, metformin, donepezil"
+6166101c-e02f-4230-b6c1-533865470674,Kelvin Nitzsche,104,M,"diabetes, stroke, coronary heart disease","metformin, clopidogrel, atorvastatin"
+8300d6a2-dc82-4494-8512-ab182e91e4bc,Betty Hickle,61,F,"hypertension, diabetes","amlodipine, metformin"
+8926f654-34e6-4648-aec9-579d39638e3e,Kenia Lang,54,F,,
+0a2772a0-c7df-4c76-a286-dc835d9cbc23,Kristine Lubowitz,98,F,"hypertension, stroke, diabetes","amlodipine, clopidogrel, metformin"
+5069ac9b-cdb4-4e2c-bc08-f8d56c256afd,Jewel Auer,95,F,stroke,clopidogrel
+063df653-8a3a-4f2d-b86d-3e82f20fc29a,Barrett Wintheiser,108,M,,
+0e708a73-1e4b-491f-9d3f-c0c3e291081c,Cleora Breitenberg,93,F,diabetes,metformin
+e4258a68-52ac-4c2e-8d8b-d723b59bf86d,Nilsa Bogan,96,F,"hypertension, diabetes","amlodipine, metformin"
+6cd45b81-284d-48b8-bab1-a4e65784d813,Trinity McKenzie,95,F,alzheimer,donepezil
+595cf0d6-88a3-4b36-8beb-719d4fdeed32,Bret Grant,76,M,"hypertension, diabetes, pulmonary emphysema, coronary heart disease","amlodipine, metformin, fluticasone, atorvastatin"
+5f615f2b-efb7-4032-8c88-dea2dc2eacbb,Shane Schumm,98,M,"allergic_rhinitis, hypertension","fexofenadine, amlodipine"
+bec3c0fb-6999-4266-a6b8-028ed0b4e48a,Jerome Spinka,79,M,"hypertension, diabetes, coronary heart disease","amlodipine, metformin, atorvastatin"
+9d57c713-2368-4ff2-b6e4-6f4546154050,Farah Gerhold,67,F,"coronary heart disease, hypertension, diabetes","atorvastatin, amlodipine, metformin"
+b518fd44-416a-440c-9768-127cae202f77,Marleen Erdman,53,F,"arthritis, diabetes","naproxen, metformin"
+221adceb-1802-4cd6-8d2d-b5ec0e6ce5e8,Lovella Huels,105,F,"diabetes, alzheimer","metformin, donepezil"
+304ef151-bcfb-4f05-94f3-a7598efac77e,Courtney Lindgren,64,M,,
+e281fb98-d32b-46d4-8568-bf1c21add34a,Herma Nicolas,89,F,diabetes,metformin
+aa602601-cb71-40c0-b6b8-8f35dad7d020,Thanh Ward,105,M,"hypertension, stroke","amlodipine, clopidogrel"
+b9b6bf1d-45f7-4d7e-bdeb-e8e5f61c6075,Samuel Collier,75,M,"diabetes, alzheimer","metformin, donepezil"
+c6910e4f-7f1c-449d-81ce-b3aad553df2e,Rey Ledner,96,M,stroke,clopidogrel
+5ff9a877-e6fa-486d-a4d0-6d47e0cbe41f,Earle Larson,84,M,,
+12ba9ca7-3959-421d-ba5a-c72c8f9e070f,Verline Konopelski,66,F,"diabetes, pulmonary emphysema","metformin, fluticasone"
+12100437-5201-40f3-8f36-f59d62510284,Hollis Batz,56,M,"hypertension, diabetes","amlodipine, metformin"
+c99a09d2-696f-4be4-8f00-6e8ad49756f7,Irvin Barrows,85,M,"diabetes, coronary heart disease, myocardial infarction","metformin, atorvastatin, clopidogrel"
+b8893220-c209-4b7b-afc9-88be95e3be17,Charla Pfeffer,92,F,diabetes,metformin
+7fc7b9d4-141b-4fff-ae19-68889718b438,Exie Conroy,97,F,osteoporosis,alendronic
+8a4c76ce-1710-4632-ac34-7eaedcba5595,Bev Haag,64,F,asthma,fluticasone
+b1745615-be46-4ceb-a70d-d78f49784568,Rosalie Hermann,101,F,"diabetes, arthritis, osteoporosis","metformin, naproxen, alendronic"
+d3167a7a-9259-46f5-9a4c-4a8822dbcd1c,Darin Weissnat,64,M,"allergic_rhinitis, coronary heart disease, myocardial infarction","fexofenadine, atorvastatin, clopidogrel"
+8fd2a4f2-d8c1-42e2-b0f1-77872fb8474c,Audie Altenwerth,96,F,"diabetes, osteoporosis","metformin, alendronic"
+8d81c314-a530-4112-8dbc-054439e1cace,Phyliss Abernathy,83,F,"coronary heart disease, diabetes, pulmonary emphysema","atorvastatin, metformin, fluticasone"
+e3c8d2c8-570d-4c69-a81e-bd88d6c6b0ca,Tanika Kuhlman,82,F,diabetes,metformin
+a77d3e00-6f1a-4bfd-9333-3439be45b15f,Otto Wolff,75,M,,
+bc2f58a2-ea29-45e7-93c4-99c03cbfcc4c,Jorge Wolff,74,M,"hypertension, diabetes","amlodipine, metformin"
+614462bd-6203-4cf2-9ded-c40b57ef0acb,Corie Anderson,105,F,coronary heart disease,atorvastatin
+6f45458c-8658-449d-a583-effa43cbd8a8,Blondell Mayer,95,F,"hypertension, diabetes, stroke","amlodipine, metformin, clopidogrel"
+481373a7-79df-429d-b3da-e971116c1df1,Marshall Kuvalis,96,M,"hypertension, diabetes","amlodipine, metformin"
+9b1991e6-5cd2-4887-ae4c-c6534d827117,Bertram Kertzmann,103,M,stroke,clopidogrel
+c7972562-7f73-49e1-a70e-79ef22eeab42,Annabelle Pouros,99,F,"diabetes, alzheimer, osteoporosis","metformin, donepezil, alendronic"
+77b4d083-5be6-4551-8d2d-3c2345d81f41,Concepcion Schinner,105,F,diabetes,metformin
+f6ea2e91-aff6-422a-a52a-c40accf76b4f,Luther Ondricka,92,M,"diabetes, seizure disorder, epilepsy, coronary heart disease, stroke","metformin, carbamazepine, atorvastatin, clopidogrel"
+6059a250-fc18-4b64-bf6d-967848ae252e,Claudette Renner,63,F,"allergic_rhinitis, hypertension, diabetes","fexofenadine, amlodipine, metformin"
+ec5b8c72-1106-4626-b00b-e71fdbba07a1,Tomas Wolf,68,M,hypertension,amlodipine
+d53eb441-cb33-48d4-ba97-252eca3b41ff,Tonette Gislason,60,F,"seizure disorder, diabetes","carbamazepine, metformin"
+8317609e-16f1-44f8-b4ef-555af047f8f3,Shea Cruickshank,98,F,stroke,clopidogrel
+29e6f83b-9c9c-4e83-8220-ac1a6de56086,Justa Shields,75,F,"hypertension, diabetes, diabetic renal disease, stroke","amlodipine, metformin, insulin, clopidogrel"
+6c713e1c-543e-41c9-ae98-fe753d3c50fe,Eveline Douglas,94,F,"arthritis, diabetes, osteoporosis","naproxen, metformin, alendronic"
+d2da79d3-a457-4512-81b3-6224c0bff5e0,Jeremy Weimann,100,M,"arthritis, coronary heart disease, stroke, alzheimer","naproxen, atorvastatin, clopidogrel, donepezil"
+5ce5ca80-dbfe-4334-9d0f-1a87a58f3f1a,Marceline O'Connell,94,F,"hypertension, diabetes, diabetic renal disease, coronary heart disease, primary fibromyalgia syndrome, myocardial infarction","amlodipine, metformin, insulin, atorvastatin, duloxetine, clopidogrel"
+4fb0302b-da7a-4972-bada-87876d971bcc,Mui Trantow,76,F,"diabetes, pulmonary emphysema","metformin, fluticasone"
+f01072c2-872f-41b6-a4e9-a9850758d112,Laraine Howe,105,F,"stroke, alzheimer","clopidogrel, donepezil"
+ce28ad3f-87d0-4f5b-bff9-79207cfc0855,Dino Skiles,107,M,"hypertension, diabetes, osteoporosis, coronary heart disease","amlodipine, metformin, alendronic, atorvastatin"
+17cb551b-b45a-48eb-a097-6421b8bc0fb4,Rico Schmitt,78,M,"seizure disorder, diabetes, pulmonary emphysema","carbamazepine, metformin, fluticasone"
+37147d3a-b064-4956-8024-b20ad8ebbf03,Bernie Stokes,54,M,,
+e078c9c8-2ce5-4ac3-953e-45d5b0432af4,Earnestine Jaskolski,95,F,"primary fibromyalgia syndrome, alzheimer","duloxetine, donepezil"
+225cdb7b-332e-499c-816d-54175d6d4226,Leonor Conn,102,F,diabetes,metformin
+b2eaa66e-73c2-4a7e-b5a2-082790e5925a,Tyson Kessler,107,M,alzheimer,donepezil
+d61aa3e4-01d2-4360-b9fd-ccc2911838a3,Nathan Botsford,72,M,"arthritis, diabetes, coronary heart disease","naproxen, metformin, atorvastatin"
+a9c61b1f-3ad5-47e0-9aae-1613640a8187,Ciara Russel,107,F,"diabetes, stroke, osteoporosis","metformin, clopidogrel, alendronic"
+4742e8e9-ac0b-4eeb-919a-f368d11f37d1,Jewell Hoppe,104,M,alzheimer,donepezil
+b3cdb0d6-1840-4ec9-87f0-1f62bde53ea1,Monty Schultz,107,M,"diabetes, alzheimer","metformin, donepezil"
+f1024eae-1feb-4cc6-9022-ea4ad7a188c8,Phillip Klocko,92,M,"osteoporosis, stroke","alendronic, clopidogrel"
+bd928f76-b217-4b78-b4dd-00a3fca98825,Mafalda Rau,94,F,"osteoporosis, alzheimer","alendronic, donepezil"
+7b6cb06b-c3b0-4538-8829-6b9f68c8356f,Hwa Padberg,109,F,diabetes,metformin
+d0723d88-4368-4f06-9dca-51815e6fc767,Elizbeth Konopelski,63,F,diabetes,metformin
+dbb4a1a0-a4d1-4fe7-94a3-faa14facad91,Jose Pfeffer,69,M,pulmonary emphysema,fluticasone
+7c956bb4-5574-4296-92f3-efda988b5a1a,Elisa Lowe,66,F,diabetes,metformin
+e97af14a-6c00-4570-bd91-b2b5850a45ab,Krystal Brown,97,F,"hypertension, diabetes, stroke, alzheimer","amlodipine, metformin, clopidogrel, donepezil"
+badb53c0-b740-463b-bad7-04819486d956,Kira Sauer,85,F,"diabetes, arthritis, chronic pain","metformin, naproxen, pregabalin"
+946ac4fc-38c6-4a93-8da9-cf59d5829adc,Mariel Orn,95,F,,
+48bbf8fd-bb8e-43f2-bfbd-c524cd9f6866,Benny Reichert,33,M,"seizure disorder, epilepsy",carbamazepine
+0632f144-2ea4-43e3-b115-a535a4d6f323,Carylon Konopelski,61,F,arthritis,naproxen
+585b5d7d-5134-4a72-aaef-7398492b7a12,Rosamond Weissnat,89,F,"hypertension, diabetes, arthritis","amlodipine, metformin, naproxen"
+b499c210-b097-4324-b3ba-43d59c295580,Bud Windler,93,M,diabetes,metformin
+be625474-59e3-4492-99b2-724b8efd1834,Dewitt Volkman,104,M,"diabetes, alzheimer","metformin, donepezil"
+2ac23a7d-3d2d-43f3-8b46-68007195ef10,Claire Morar,96,F,diabetes,metformin
+f6bd94d7-3cd8-49ff-9568-08c63922d6a5,Norris Feeney,105,M,"coronary heart disease, arthritis, myocardial infarction","atorvastatin, naproxen, clopidogrel"
+b3531890-0a38-4168-a404-00b06111e8fb,Phillip Schroeder,105,M,"diabetes, coronary heart disease, myocardial infarction","metformin, atorvastatin, clopidogrel"
+e465ca22-fdd9-4253-b13a-9a32f72126c1,Lashandra Lockman,106,F,"arthritis, diabetes, alzheimer, stroke","naproxen, metformin, donepezil, clopidogrel"
+323bb756-08e7-43a4-81e3-1a311df834b5,Valene Steuber,106,F,"seizure disorder, epilepsy",carbamazepine
+09ef278f-7606-4789-af39-cd3f575a73a0,Kellie Gottlieb,88,F,,
+72f7b009-e5e2-430d-ab43-74c1271a4dd5,Micki Haag,70,F,hypertension,amlodipine
+a00d4729-aab3-4308-9c95-6012926d6ea3,Sharan Graham,70,F,"allergic_rhinitis, diabetes, pulmonary emphysema","fexofenadine, metformin, fluticasone"
+76dd4a26-247c-435a-beeb-5d1b2f459984,Cameron Heller,91,F,"diabetes, osteoporosis","metformin, alendronic"
+7c204f7d-dccd-4e4a-9c45-9c6f4d40a516,Tonja Tromp,70,F,diabetes,metformin
+8c517086-4634-4c01-abfb-361209968720,Janean Bashirian,94,F,"hypertension, diabetes, diabetic renal disease","amlodipine, metformin, insulin"
+826ea6b9-0a1d-4d10-a829-bd7ea9a1159d,Kemberly Stoltenberg,104,F,"hypertension, diabetes, stroke, alzheimer, osteoporosis","amlodipine, metformin, clopidogrel, donepezil, alendronic"
+fe481b96-8643-457f-bee3-2679c93e92b0,Boyd Prohaska,104,M,"diabetes, stroke","metformin, clopidogrel"
+6a569777-9dec-4269-93e7-fefbcf21507f,Carroll Bernhard,77,M,stroke,clopidogrel
+8cc2dca6-3ebc-4aad-a49d-7ad1425cf604,Aldo Carter,90,M,,
+e7a34cde-5edd-49c3-94d1-8e351e3375da,Tyisha Brekke,74,F,diabetes,metformin
+dc57b827-3ecd-49b1-b17f-fc7e84f017f0,Merrill Kassulke,88,M,"seizure disorder, epilepsy, hypertension, diabetes","carbamazepine, amlodipine, metformin"
+21661dcb-1412-48de-83e8-321a82cacf41,Mario Gottlieb,75,M,,
+85524101-1681-4412-acdc-85e938da2d86,Stacy Effertz,95,M,"arthritis, diabetes, diabetic renal disease","naproxen, metformin, insulin"
+b34c6415-ddd3-4e3a-a2f0-524685469328,Everett Bins,103,M,"hypertension, diabetes, osteoporosis, alzheimer","amlodipine, metformin, alendronic, donepezil"
+fda71445-46ff-4ae8-9b51-48e5006b781d,Tyra Armstrong,95,F,"hypertension, coronary heart disease, diabetes, osteoporosis","amlodipine, atorvastatin, metformin, alendronic"
+d0ad7f37-e497-424a-a1f4-33c1f2c6c9fb,Young Treutel,85,M,"hypertension, arthritis, osteoporosis, coronary heart disease, myocardial infarction","amlodipine, naproxen, alendronic, atorvastatin, clopidogrel"
+f82c6d07-2eba-4a2e-a2c5-5b64b43b20a0,Norman Berge,107,F,"asthma, diabetes, alzheimer, stroke","fluticasone, metformin, donepezil, clopidogrel"
+75e5835a-6deb-4bcd-bbe5-d0779e17bf0c,Norman Abbott,99,M,coronary heart disease,atorvastatin
+bbeb11d2-7104-4dca-ab84-bb991c1542a5,Emilio Greenholt,104,M,"diabetes, alzheimer, stroke","metformin, donepezil, clopidogrel"
+1e431355-d6ac-49a4-b275-bd7053d8ad23,Janyce Ondricka,98,F,"stroke, hypertension, diabetes, arthritis, diabetic renal disease","clopidogrel, amlodipine, metformin, naproxen, insulin"
+e17d3c1a-f882-4fb4-859b-95de073abac2,Vivien Williamson,99,F,"hypertension, diabetes, arthritis, stroke","amlodipine, metformin, naproxen, clopidogrel"
+e2c8656f-dde3-459a-99eb-46091644f7d5,Coral Balistreri,80,F,,
+f344c37b-3406-4e4f-8d7e-cf35a4873e81,Grant Oberbrunner,98,M,"gout, diabetes, diabetic renal disease","allopurinol, metformin, insulin"
+43f2cfa6-a554-4325-bc56-417cd664df1b,Jeromy Heaney,25,M,seizure disorder,carbamazepine
+938abac6-9c9a-4ba3-86af-d6edb132533b,Keenan Ebert,30,M,seizure disorder,carbamazepine
+06ab75f5-dd8f-425e-bbed-6bf96eb24393,Krysta Gusikowski,104,F,"diabetes, osteoporosis, stroke","metformin, alendronic, clopidogrel"
+68fc72e7-c155-4333-9af6-89f97c996741,Cedric Kulas,74,M,"hypertension, asthma, coronary heart disease, diabetes","amlodipine, fluticasone, atorvastatin, metformin"
+f06bccac-a832-44d7-adbf-d77f3db13a41,Enedina Erdman,108,F,"diabetes, arthritis, osteoporosis","metformin, naproxen, alendronic"
+d1c6bb26-3bed-44f1-b328-43cf54f8455c,Madie Quigley,99,F,"diabetes, osteoporosis, alzheimer, stroke","metformin, alendronic, donepezil, clopidogrel"
+a2ece6fe-99e9-4e5f-abb6-a4670b40f0ed,Mathew Ratke,108,M,stroke,clopidogrel
+7f71ab3b-d8f6-4641-b607-de5c5b39e382,Margart Barrows,81,F,"hypertension, diabetes, pulmonary emphysema","amlodipine, metformin, fluticasone"
+3c8fea80-3446-40a5-a63b-93ac34cff9c7,Dinorah Bayer,105,F,"asthma, diabetes, stroke","fluticasone, metformin, clopidogrel"
+ca1a0f1e-0739-4fb6-a706-24bdc0a8f5b0,Dyan Dicki,99,F,"diabetes, primary fibromyalgia syndrome","metformin, duloxetine"
+e38d9e39-b073-491d-b9ca-14f9d1a7688a,Otha Mueller,97,M,"hypertension, diabetes, arthritis, coronary heart disease, myocardial infarction","amlodipine, metformin, naproxen, atorvastatin, clopidogrel"
+b5ff95c6-b88a-478e-8416-671f0883c054,Carl Sawayn,70,F,,
+5eac1e01-1203-4e07-9269-d4d58e5e84fe,Isreal Nienow,97,M,"hypertension, diabetes, coronary heart disease, stroke","amlodipine, metformin, atorvastatin, clopidogrel"
+6564d28a-4fba-492f-9998-451b814fe962,Marcus Kutch,108,M,"hypertension, diabetes, diabetic renal disease, stroke, osteoporosis","amlodipine, metformin, insulin, clopidogrel, alendronic"
+a82bb07c-2356-4b81-9585-1471c1359089,Buck Zulauf,84,M,diabetes,metformin
+29d72722-f2e4-4e91-b7ff-00034cd0b3eb,Eryn Hodkiewicz,103,F,"diabetes, arthritis","metformin, naproxen"
+12b7751b-4acc-4306-9d70-6a8c9342151b,Malcolm Schmitt,102,M,diabetes,metformin
+7ae6f089-97ca-457e-ab59-f6ab0599c886,Tiera Stroman,98,F,"hypertension, diabetes, diabetic renal disease, coronary heart disease, stroke","amlodipine, metformin, insulin, atorvastatin, clopidogrel"
+6657954a-ba86-46bf-97f9-04bb66b56dcd,Donnell Weimann,104,M,diabetes,metformin
+4276c930-85d4-4eab-ac2b-7031d9fe2f14,Wade Lindgren,93,M,diabetes,metformin
+90d86c98-0694-47b6-af52-f57bcd9eaab2,Victoria Towne,102,F,"diabetes, arthritis","metformin, naproxen"
+98a6b671-182b-4c97-b8fb-ff12fd5bda53,Cruz Schumm,106,F,"diabetes, diabetic renal disease, alzheimer","metformin, insulin, donepezil"
+7d6b82ee-da72-47f1-a1f8-bc51f140a712,Jenelle Parker,100,F,"hypertension, diabetes, diabetic renal disease, stroke, osteoporosis, alzheimer","amlodipine, metformin, insulin, clopidogrel, alendronic, donepezil"
+fe36f6f0-20c7-42f8-bdab-f9def653904e,Lourie Simonis,99,F,"pulmonary emphysema, diabetes","fluticasone, metformin"
+45ac028b-fcaa-4ad6-9c24-59ea40119e81,Marisa Farrell,104,F,"diabetes, diabetic renal disease, arthritis, alzheimer","metformin, insulin, naproxen, donepezil"
+a02899e0-9fe0-43dd-bb36-f3db5de3bdeb,Alonzo Prohaska,73,M,diabetes,metformin
+b577a2e5-11de-4f76-9858-575e21604481,Arnulfo Walker,58,M,"coronary heart disease, myocardial infarction","atorvastatin, clopidogrel"
+428ab0b1-a2bd-4f08-863e-40f62b368c3f,Ed Yost,85,M,diabetes,metformin
+227e88cc-6ee1-44a8-a7e3-407d272df5e2,Janett Goyette,81,F,diabetes,metformin
+01347a8e-3a92-4f1e-99c9-5d6df0db2331,Eusebio Cole,103,M,stroke,clopidogrel
+b82d9b2b-ecff-43a8-a7a8-74460dae92db,Marisol Corkery,64,F,pulmonary emphysema,fluticasone
+d30afd5a-205c-446b-a9ad-a042678e4103,Zofia Feil,94,F,,
+9e8a75d2-7573-4ab6-9b11-d1e9342f9d60,Riva Rodriguez,92,F,"hypertension, arthritis, coronary heart disease, myocardial infarction","amlodipine, naproxen, atorvastatin, clopidogrel"
+e18078c4-b4c9-4e7e-8ed0-e40e255d8fc7,Lakeshia Schuster,91,F,"seizure disorder, diabetes","carbamazepine, metformin"
+cfb91ae8-030b-4a5b-a25a-ce265a0d3535,Kori Sanford,90,F,"hypertension, diabetes, diabetic renal disease, osteoporosis","amlodipine, metformin, insulin, alendronic"
+0c9768f7-439b-436c-9a94-30a644f687de,Jude Donnelly,99,M,"seizure disorder, diabetes","carbamazepine, metformin"
+54016636-b8fa-4134-a72b-dae6f7cf128c,Tory O'Hara,87,M,diabetes,metformin
+dfebc97d-ab75-4370-991d-6431c5ac3820,Farrah Zieme,89,F,"hypertension, diabetes, stroke, arthritis","amlodipine, metformin, clopidogrel, naproxen"
+5a670cc7-30c7-429d-988b-775d808dd2a2,Claude Connelly,85,M,"hypertension, diabetes","amlodipine, metformin"
+92f1bd6d-9a00-42d3-b2ec-f8dce2a536ba,Elvie Stoltenberg,90,F,"hypertension, diabetes, primary fibromyalgia syndrome","amlodipine, metformin, duloxetine"
+bb8e20f0-e4b4-433d-b0ec-04cc0d397fa9,Ashley Cassin,103,M,"hypertension, diabetes, diabetic renal disease, chronic pain","amlodipine, metformin, insulin, pregabalin"
+9ef99f9f-3e5d-4b41-9ef2-fe910b7a3763,Tula Jacobs,95,F,arthritis,naproxen
+16077486-5747-4abe-8321-ba290fb7197c,Ellena Monahan,72,F,,
+23a78614-b344-4488-8adb-e1376e32cbed,Tajuana Gleason,104,F,,
+0860636f-285a-4770-aadb-534a77464e37,Desmond Haag,105,M,"hypertension, diabetes","amlodipine, metformin"
+0c875bda-024e-4fe4-9032-cf684457df5b,Michel Buckridge,107,M,"diabetes, coronary heart disease, stroke","metformin, atorvastatin, clopidogrel"
+f28acb4c-991e-40b9-84f0-c5d296c75341,Madge Wyman,100,F,"hypertension, diabetes, seizure disorder, epilepsy","amlodipine, metformin, carbamazepine"
+443a0255-5584-45d9-93ca-9174f1d45f03,Ricardo Bechtelar,92,M,"asthma, pulmonary emphysema",fluticasone
+cbe683c3-752b-4f45-9064-e27b0394f7c3,Ona Waters,64,F,"hypertension, seizure disorder, epilepsy, arthritis","amlodipine, carbamazepine, naproxen"
+e6b092af-79d0-4a77-893d-275af6876527,Alphonso Jacobi,71,M,"hypertension, coronary heart disease, myocardial infarction","amlodipine, atorvastatin, clopidogrel"
+0daa4f55-599e-47ae-8f7d-8aad857dd955,Liberty Nikolaus,100,F,"diabetes, osteoporosis","metformin, alendronic"
+0f53c638-84f2-4431-9ef0-b5f0cea2f90b,Cordell Hoppe,81,M,,
+b2aac2df-7445-4a31-abc7-8b75458e35e7,Shirley Roberts,75,M,myocardial infarction,clopidogrel
+92c74a33-2ccb-4420-b8dc-3f9b70a0f4d2,Tory Murphy,90,M,seizure disorder,carbamazepine
+24edeeb7-f7c0-4ed7-a9f5-e3ea1f97bf80,Theodore Dicki,88,M,"hypertension, diabetes, stroke, coronary heart disease","amlodipine, metformin, clopidogrel, atorvastatin"
+6cfe0b1a-23f9-4feb-8ea7-5d7066db6c62,Virgil Cassin,89,M,,
+34d07ce1-6663-4ad9-b354-ea7f76791515,Leanna Batz,103,F,"diabetes, arthritis, alzheimer, stroke","metformin, naproxen, donepezil, clopidogrel"
+6c15024d-7659-4605-83ff-32538ff17b21,Ernesto Jones,93,M,diabetes,metformin
+13eb801a-b67f-4037-85ff-c388a602a768,Amado Jacobson,101,M,"hypertension, diabetes, stroke, coronary heart disease","amlodipine, metformin, clopidogrel, atorvastatin"
+70ee0b90-4e33-4011-b40c-3a081543f24a,Isidro D'Amore,107,M,"diabetes, pulmonary emphysema","metformin, fluticasone"
+7aa1cc83-06e7-4727-b597-18b4adfd15db,Leandro Auer,101,M,"hypertension, coronary heart disease, stroke, myocardial infarction","amlodipine, atorvastatin, clopidogrel"
+61d354c8-981a-4364-9b6f-df0d9638e771,George Marks,95,M,"diabetes, diabetic renal disease, seizure disorder, epilepsy","metformin, insulin, carbamazepine"
+bb068e91-37cf-4264-ba41-6de8163c875b,Albertha Green,107,F,arthritis,naproxen
+4d90611b-cb87-433c-81e4-a35ac74b909d,Earnest McClure,107,M,"diabetes, osteoporosis, alzheimer","metformin, alendronic, donepezil"
+2ceaa07b-26e7-42c7-8505-ab7bd2117f3d,Mervin Frami,105,M,"hypertension, alzheimer","amlodipine, donepezil"
+ed384a4b-4cde-4b2d-8909-5e296ba34efa,Lon Hudson,84,M,"hypertension, diabetes","amlodipine, metformin"
+8770e0d4-c959-4c4b-ae6a-78e1e2d6eff1,Arlyne Hintz,79,F,diabetes,metformin
+67ba4046-b07d-4870-9abe-fa21631e1408,Ira Keeling,81,M,"coronary heart disease, diabetes, myocardial infarction","atorvastatin, metformin, clopidogrel"
+bbcceaba-de71-4f69-a993-9384482b864e,Carmen Cassin,89,M,diabetes,metformin
+3bcab74d-7b5e-4c0d-9db7-e0a293d5fe24,Thomas Schmidt,95,M,"seizure disorder, hypertension, stroke","carbamazepine, amlodipine, clopidogrel"
+84b5b41c-e528-4426-a271-da436ebebf63,Wilbur Beier,97,M,,
+53215427-7e9c-45af-922b-166f77c3421f,Aleen Price,86,F,"pulmonary emphysema, diabetes, diabetic renal disease","fluticasone, metformin, insulin"
+bd3370c7-8157-4975-8e25-23b7ee715168,Lonnie Crona,91,M,"diabetes, pulmonary emphysema","metformin, fluticasone"
+35c055cd-94e8-43d1-b7de-8fbeba033ef6,Kamala Spencer,85,F,"asthma, diabetes","fluticasone, metformin"
+76b9860c-a784-4117-a52b-2d67999e9279,Patricia Luettgen,89,M,arthritis,naproxen
+128ba251-fed3-487a-abb3-0c72e297f8e0,Dexter Parisian,66,M,"diabetes, pulmonary emphysema","metformin, fluticasone"
+5ead9280-1716-4793-85dd-d1070b94f1d3,Edgardo Stark,104,M,"seizure disorder, epilepsy, diabetes, coronary heart disease","carbamazepine, metformin, atorvastatin"
+32507edc-aafe-4446-a98c-6326ef4c95dc,Narcisa Raynor,77,F,"hypertension, diabetes","amlodipine, metformin"
+1799fd03-0850-4f1e-aee6-7a7d9d4adf2e,Marcos Becker,91,M,diabetes,metformin
+cc1924a0-f617-447a-8788-a6dff23c59c8,Edward Waelchi,96,M,diabetes,metformin
+7ecb6609-9b4b-47a4-ab8b-b9983d3be2c9,Chin Kub,90,F,"diabetes, arthritis","metformin, naproxen"
+d617ce77-2f67-4454-9413-bd2565af0d1e,Tasia O'Hara,99,F,alzheimer,donepezil
+45a7d97f-01ad-45b6-ad70-7150e57bde6b,Deon Daugherty,71,F,"hypertension, arthritis, diabetes, pulmonary emphysema","amlodipine, naproxen, metformin, fluticasone"
+be4e2626-c857-492e-956e-53fc4cc2a4e9,Nigel Reichert,86,M,"coronary heart disease, myocardial infarction","atorvastatin, clopidogrel"
+5d0f736d-61c0-4255-a8fc-af2d7a11eac3,Jesse Stanton,101,F,diabetes,metformin
+58291968-0a9b-473c-bd70-2a29ca8f7fe9,Dovie Hoppe,98,F,,
+9a8c4de5-f384-4a4b-a195-0989282b5796,Florentino Flatley,91,M,"diabetes, pulmonary emphysema","metformin, fluticasone"
+0e9afc8b-c602-4372-a1e3-e94f49b0f6ce,Gladis Parker,51,F,allergic_rhinitis,fexofenadine
+26c09d26-5728-4d31-8d96-a78c40884592,Nickie Stiedemann,82,F,"hypertension, pulmonary emphysema, diabetes","amlodipine, fluticasone, metformin"
+a1f79430-d13c-462b-88f1-b635ebd56d81,Sharie Glover,108,F,,
+8510e7af-519a-4690-b5a4-095eaa5dd55a,Ilda Kutch,93,F,"asthma, pulmonary emphysema, diabetes","fluticasone, metformin"
+71deabfb-e7c6-463a-b574-5aeb2c2fced9,Cornell Wilkinson,97,M,"hypertension, diabetes","amlodipine, metformin"
+c0676770-fa75-4015-9c3a-dda4f4bbcfb2,Maxwell Gislason,96,M,"diabetes, pulmonary emphysema","metformin, fluticasone"
+c68c7370-7c26-4ad5-92dd-5c942148f413,Marlin Lubowitz,95,M,"arthritis, diabetes","naproxen, metformin"
+3ecc84c2-5519-4d3f-8785-6270fb4dcbb7,Jeane Abshire,92,F,"hypertension, arthritis, diabetes","amlodipine, naproxen, metformin"
+f762527c-d6f5-401b-b1d9-eb05ec23e86c,Loris Lynch,99,F,"hypertension, diabetes, pulmonary emphysema","amlodipine, metformin, fluticasone"
+abe7ef60-0c44-4ff7-8935-fc0c521fa613,Riley Hermiston,87,M,"coronary heart disease, diabetes, myocardial infarction","atorvastatin, metformin, clopidogrel"
+57d2de82-a27b-4d8c-ae2e-6d343f691b6d,Angel Koepp,94,M,"hypertension, diabetes, coronary heart disease","amlodipine, metformin, atorvastatin"
+5f68fa5d-cf9e-41b5-b043-f8eb2dce3b17,Julian VonRueden,83,M,"coronary heart disease, myocardial infarction","atorvastatin, clopidogrel"
+1e7079ee-eaf9-4c1f-bbc0-59d3ae5573f4,Martin Heathcote,102,F,"hypertension, pulmonary emphysema","amlodipine, fluticasone"
+65df2d8f-8e90-4deb-91b1-06a11c9fcdca,Bobbi Marvin,97,F,"diabetes, diabetic renal disease, osteoporosis","metformin, insulin, alendronic"
+11926802-8a12-4816-90db-dcf26558bc1f,Clay Borer,101,M,,
+0e08c73a-6a47-459b-9c9c-48536c76f9ef,Jules Morissette,88,M,,
+90a093c1-d39b-4a90-8986-b346d6f5f02e,Dorian Nicolas,91,M,"diabetes, pulmonary emphysema","metformin, fluticasone"
+e2e1f0ea-7d03-41d6-ac83-d1d501bf44b2,Loida Gulgowski,83,F,"diabetes, arthritis, coronary heart disease, stroke","metformin, naproxen, atorvastatin, clopidogrel"
+4ced364f-f66f-427e-978f-15554993d037,Kris Leuschke,99,M,"diabetes, gout, alzheimer","metformin, allopurinol, donepezil"
+0586790d-d2ba-4681-88e0-95a2f5874feb,Boris Walsh,94,M,"coronary heart disease, pulmonary emphysema","atorvastatin, fluticasone"
+3c4a09c8-e358-4a95-a142-db6cba840b40,Charles Hyatt,97,M,"coronary heart disease, hypertension, myocardial infarction","atorvastatin, amlodipine, clopidogrel"
+1933ea02-4a01-412a-b1bc-cc51f1d3bcfc,Porter Goldner,98,M,"diabetes, arthritis","metformin, naproxen"
+c2caaace-9119-4b2d-a2c3-4040f5a9cf32,Kim Barrows,89,M,,
+0a356517-c3d5-4b8e-8429-1898e22e2291,Frederic Parisian,90,M,"asthma, diabetes","fluticasone, metformin"
+12efb62c-1aea-4322-9335-31a7f16ef59d,Amado Stokes,85,M,,
+0c684dee-a012-4923-b588-553c723d64ca,Rufus Pouros,70,M,"seizure disorder, hypertension","carbamazepine, amlodipine"
+159bf1d1-71c2-4838-98c2-26a28ca39532,Bill Hegmann,108,M,"coronary heart disease, myocardial infarction","atorvastatin, clopidogrel"
+be6a871f-cba6-4134-bceb-98fcb15cdf34,Boyce Legros,88,M,"hypertension, diabetes","amlodipine, metformin"
+aa2585ec-b01c-45fc-882c-5b6632539d5e,Darron Renner,105,M,diabetes,metformin
+55708b00-0a2e-49f9-9dd6-f52bcf7ba438,Douglass Gusikowski,92,M,"hypertension, diabetes","amlodipine, metformin"
+ae462a96-e4b6-4c42-9578-63cc12436691,Abdul Zemlak,72,M,hypertension,amlodipine
+f0e225b2-7314-4b49-881d-01a77725624c,Lemuel Dare,99,M,diabetes,metformin
+1c1930fb-1e0d-42d7-ad05-cb61de76e5dd,Ralph Denesik,91,M,"coronary heart disease, diabetes, myocardial infarction","atorvastatin, metformin, clopidogrel"
+59f6b849-0eb5-4102-9bd2-724bf841a58f,Sherell Schmitt,101,F,"hypertension, diabetes, stroke, pulmonary emphysema","amlodipine, metformin, clopidogrel, fluticasone"
+02c0668a-b8bb-45be-a573-dfb139977b5f,Heath Lebsack,101,M,"coronary heart disease, myocardial infarction","atorvastatin, clopidogrel"
+f37ed933-9ad2-45b4-969d-a782cf676a40,Nichelle Paucek,109,F,"diabetes, arthritis","metformin, naproxen"
+5111622d-2af8-4611-8489-2dd00573c857,Meg Schiller,103,F,,
+21d7359a-9ff9-44b3-9f56-15da87c6a533,Curt Dibbert,104,M,,
+2ec56fb9-75a3-4787-9810-8a2d337db00b,Pat Christiansen,99,M,hypertension,amlodipine
+ca235081-87d4-4623-9fef-967aea6dd383,Quentin Toy,87,M,diabetes,metformin
+76b81a07-4fd1-4a96-99c2-8ceb9386489f,Elliot Stracke,100,M,"diabetes, stroke","metformin, clopidogrel"
+6f729983-0f59-470e-b24e-ed68d478069c,Lupe Donnelly,96,M,diabetes,metformin
+7ed52b80-321d-46b7-9056-470d0fae1178,Raleigh Bechtelar,96,M,diabetes,metformin
+cc6c0d7c-6791-4492-a6cb-039baed2e870,Toby Marvin,105,M,"hypertension, diabetes, diabetic renal disease","amlodipine, metformin, insulin"
+bdf497bd-e66b-44f6-8215-c7acb0e0f72d,Shavonne Torphy,99,F,,
+6bad295e-0c5a-41c4-a458-fa0a216bb8c3,Erick Olson,107,M,diabetes,metformin
+492624fb-49dc-4e16-b6b9-b41619934cd4,Louvenia Nikolaus,85,F,diabetes,metformin
+71b563aa-ee56-49c4-8330-884bebcd7f2c,Fermin Gerlach,89,M,stroke,clopidogrel
+de43eb48-496c-46d4-8c5b-be6125a38c15,Nicholas Lind,94,M,"hypertension, diabetes, stroke","amlodipine, metformin, clopidogrel"
+55f1a2b1-da37-476a-9bce-ca82a880863e,Gavin Luettgen,88,M,"diabetes, pulmonary emphysema, diabetic renal disease","metformin, fluticasone, insulin"
+d363b9e2-2905-4a54-a86c-f1da9783a139,Candida Cormier,102,F,,
+5b9136ea-1d35-4dcc-922c-9ed77a8ac7f5,Francis Erdman,105,M,pulmonary emphysema,fluticasone
+3e0b0e06-5143-4255-9c79-92227e0aa452,Corrinne Miller,97,F,diabetes,metformin
+8018a634-75e8-4cf1-8900-06fc99a23467,Pasquale Dibbert,92,M,hypertension,amlodipine
+9bc1261c-047c-48f1-8809-c5032faf6788,Sid Price,48,M,seizure disorder,carbamazepine
+8671ea04-3be1-4d59-9b1f-1e5171517294,Victoria Hyatt,100,F,"diabetes, pulmonary emphysema, coronary heart disease, myocardial infarction","metformin, fluticasone, atorvastatin, clopidogrel"
+c8e8ead2-352c-43bb-ae76-b80d74e23d05,Elli Hoeger,101,F,diabetes,metformin
+20c4fd4a-165e-4f93-9b48-337c9b62e852,Jon Kuphal,106,M,pulmonary emphysema,fluticasone
+97cf4561-5a28-4350-ad13-7ce78ccefc7d,Alejandrina McLaughlin,107,F,"hypertension, arthritis","amlodipine, naproxen"
+ab31bac7-6165-4bb3-9d11-935d56ee331b,Jacob Runolfsdottir,106,M,"diabetes, diabetic renal disease, coronary heart disease","metformin, insulin, atorvastatin"
+79cbdef8-fcef-4107-bf50-2b79bec4d438,Fabian Robel,95,M,"coronary heart disease, diabetes, diabetic renal disease, myocardial infarction","atorvastatin, metformin, insulin, clopidogrel"
+0feeed71-ab53-4923-9131-0fe66d1fd508,Danial Fay,96,M,"hypertension, diabetes","amlodipine, metformin"
+72970523-f651-4c01-9860-ca3a7d495753,Mahalia Beier,97,F,"hypertension, arthritis, pulmonary emphysema","amlodipine, naproxen, fluticasone"
+4ec8de9c-d9c4-4805-8266-848d40fd83df,Jacqulyn Aufderhar,105,F,,
+ff37821d-f990-4a8f-b014-2a78ec9067ec,Belle Smitham,82,F,"hypertension, diabetes","amlodipine, metformin"
+1a48531c-1a2f-42e7-aef9-ca3e17acaee2,Jamison Hermann,77,M,"coronary heart disease, myocardial infarction, hypertension, diabetes","atorvastatin, clopidogrel, amlodipine, metformin"
+a8b24df6-d727-45d2-b269-cf482c17a402,Sade Stark,97,F,hypertension,amlodipine
+47fd1811-7074-421c-8034-af60909685dd,Moses O'Hara,107,M,"hypertension, diabetes","amlodipine, metformin"
+59aa9a23-e968-48fa-9a32-67b3808b7d61,Rocco Mante,86,M,,
+c5b4aaf4-9b2e-4b70-8be4-ee7ed34cd6e5,Shirley Wintheiser,107,F,,
+233f17a2-51e3-400c-b5c1-748a0071b4f3,Rey Gibson,103,M,,
+35e3d7e4-9c67-4790-8e45-f44bc6d9021c,Edwin Corwin,89,M,diabetes,metformin
+96c7f5f8-c12c-48f5-8d2a-3c0bd31a9629,Kay Tromp,91,F,"hypertension, diabetes","amlodipine, metformin"
+10716ba7-4092-4623-ad3b-edec2470667d,Quincy Rodriguez,93,M,,
+67c704bf-8e09-44ae-911c-49d7b7cdb0e3,Bobby Smith,105,M,"diabetes, coronary heart disease, myocardial infarction","metformin, atorvastatin, clopidogrel"
+381e7f99-0db5-493e-8b6f-f0222080becc,Jacqueline Welch,87,F,"coronary heart disease, myocardial infarction","atorvastatin, clopidogrel"
+1b856f8e-22a7-432d-9233-38a42f7b4352,Jeffrey Walter,75,M,seizure disorder,carbamazepine
+ce11bcba-c83c-43ae-802d-b20ee8715afe,Keith Beahan,108,M,hypertension,amlodipine
+961a4022-b272-4dac-ab05-4597a6193e12,Rob Koch,108,M,"diabetes, stroke","metformin, clopidogrel"
+e17db188-94e7-41ca-80fb-1a1b360bf9e9,Darrin Dooley,58,M,seizure disorder,carbamazepine
+934deba7-acb8-4482-a0a4-9ccf99ca3cc6,Moses Lebsack,107,M,"diabetes, pulmonary emphysema","metformin, fluticasone"
+f88d0d0e-614b-4ab2-aae4-12d103778e0a,Carolin Macejkovic,109,F,"hypertension, arthritis","amlodipine, naproxen"
+a40408b2-2fa3-4618-9b6a-b5e62db7eff7,Shane Robel,84,M,,
+bbc9f845-db05-4043-8b85-adbff185ae10,Elin Osinski,96,F,"hypertension, asthma","amlodipine, fluticasone"
+dd36bbf8-e77b-4417-9b65-d458907a0e85,Carter Sawayn,90,M,"seizure disorder, epilepsy",carbamazepine
+6b54ce48-6351-41a9-b61c-d606d4c58c68,Bethann Mueller,104,F,pulmonary emphysema,fluticasone
+cf9a3357-e145-480e-a2b9-7f9c595b9783,Adell Bradtke,87,F,,
+f84a9f7f-0db7-477b-88c3-47c47f4239ec,Esta Heaney,68,F,"coronary heart disease, myocardial infarction","atorvastatin, clopidogrel"
+e806c106-d18b-4df9-9549-33e3c3f63550,Dante Champlin,95,M,"coronary heart disease, myocardial infarction","atorvastatin, clopidogrel"
+c3e12cf4-924e-43fa-a6be-05a8a78a25bd,Charley Mayer,95,M,"coronary heart disease, myocardial infarction","atorvastatin, clopidogrel"
+613516f0-b304-4fa6-a06a-7df322aeb4b3,Gwen Satterfield,80,F,child attention deficit disord,methylphenidate
+a4d9d4f3-0a60-4cf5-b5e5-ca34734a476b,Thurman Stroman,70,M,"seizure disorder, epilepsy",carbamazepine
+501101fa-c3fc-406e-99a4-b31aa80d6117,Jetta Lynch,79,F,"coronary heart disease, myocardial infarction","atorvastatin, clopidogrel"
+2bab9779-6ae2-44b5-95c9-5db4637d8c18,Cyrus Daugherty,92,M,,
+0573a385-9603-4fed-9922-c1182b580b4c,Antione Hermiston,101,M,"coronary heart disease, hypertension, myocardial infarction","atorvastatin, amlodipine, clopidogrel"
+95db5d3f-5acb-497e-9052-45082aed2dd4,Julius Moen,87,M,"asthma, seizure disorder, epilepsy","fluticasone, carbamazepine"
+069bcd1a-6638-42c8-9a78-bf2fffe7b567,Lovella Streich,105,F,,
+7d15ff47-9229-47db-80b4-98ab3d4ff7f0,Tawana Mertz,78,F,seizure disorder,carbamazepine
+49c0d359-4477-4db3-a9d1-28766d9edc32,Nicolas Blick,83,M,"seizure disorder, epilepsy",carbamazepine
+65a4143c-8250-4954-9479-4c11eee01a43,Robin Hagenes,107,M,pulmonary emphysema,fluticasone
+1f4cb553-735e-4079-b59f-808b5ac47132,Lino Lebsack,102,M,hypertension,amlodipine
+b126e4ed-5834-4832-b377-9fbab40bd833,Micha Hilll,104,F,"asthma, seizure disorder, epilepsy","fluticasone, carbamazepine"
+321014c4-4685-4606-b677-3073df130bfa,Madeline Gerlach,88,F,"seizure disorder, epilepsy",carbamazepine
+e9d4d5d1-419c-4e9b-b353-dfc128ddfae6,Lloyd DuBuque,106,M,"coronary heart disease, hypertension, myocardial infarction","atorvastatin, amlodipine, clopidogrel"
+570d547e-1978-43b8-8a78-e171016e89bd,Aline Jacobi,91,F,seizure disorder,carbamazepine
+0207a4c4-4d49-47bf-93c6-4133376784a2,Laronda Bernier,106,F,"arthritis, stroke, osteoporosis","naproxen, clopidogrel, alendronic"
+551ed558-4710-4a35-99e5-4d3340f40966,Louie Stracke,107,M,"hypertension, diabetes, osteoporosis","amlodipine, metformin, alendronic"
+a0cada0e-e99d-46c9-83d4-c0c18086586e,Dreama Morissette,107,F,"diabetes, arthritis","metformin, naproxen"
+eff56c0c-0c78-46de-b34d-2374d4fa5eb2,Russ Harris,99,M,diabetes,metformin
+a49e9083-ea9e-4741-888f-f3061bceea4a,Ivory Bahringer,99,M,alzheimer,donepezil
+5ad39139-628d-4239-ba89-e8a70628439f,Wendie Ernser,100,F,"diabetes, stroke, alzheimer, osteoporosis","metformin, clopidogrel, donepezil, alendronic"
+e8a28ebd-def8-4f46-86aa-780e7674b6a0,Millie Willms,100,F,"hypertension, arthritis","amlodipine, naproxen"
+23ffe43f-c4b4-432f-ae2f-3aa21b7d513d,Manuel Leuschke,100,M,"hypertension, stroke","amlodipine, clopidogrel"
+d4841577-f9ac-4cc8-ad03-f80131552fc9,Chiquita Purdy,100,F,"hypertension, diabetes, diabetic renal disease, coronary heart disease, stroke, alzheimer","amlodipine, metformin, insulin, atorvastatin, clopidogrel, donepezil"
+b1a445be-94f5-46f4-8306-b4f016544f3c,Edward Kihn,101,M,"diabetes, coronary heart disease","metformin, atorvastatin"
+2b926345-c578-4726-ae4c-e37716b6a2b7,Georgette White,103,F,"arthritis, osteoporosis, stroke, pulmonary emphysema","naproxen, alendronic, clopidogrel, fluticasone"
+6e261615-b4cc-44d4-b8c4-8ca804bcc7e3,Jerry Kessler,105,M,osteoporosis,alendronic
+3959c1a0-fa86-4a48-b0ca-6990b812bf7d,Joye Homenick,106,F,"hypertension, arthritis, diabetes, stroke","amlodipine, naproxen, metformin, clopidogrel"
+35a2f55b-d7c6-4fcb-b214-b2d1bfbed629,Ethel Cormier,9,F,,
+af483e62-9147-468f-8c38-6f8a92ba3870,Warren O'Connell,9,M,,
+b7762542-c2b5-4c16-ac38-8e687db570a6,Ian Schimmel,9,M,,
+2ad29b71-144b-4c02-9b6b-644a6c8c09bb,Dean Conn,9,M,,
+7333e372-dd00-46b2-8f86-0efc72430fb6,Dave Hudson,9,M,"seizure disorder, epilepsy",carbamazepine
+4fb74ef2-2eba-44cd-999a-02f96e1037fb,Asley Runte,9,F,,
+38d62954-0b60-46b2-aaba-f7d3d3e632c1,Luvenia Parker,9,F,,
+4c85622b-9420-41da-91fd-7d048ef71792,Alyse Cormier,9,F,,
+b5af9d9b-93ef-402e-824d-18e8fae89627,Emmie Stroman,10,F,,
+dcaeb448-6a7d-4c64-9d43-0a9390d26013,Darwin Luettgen,10,M,,
+62f57628-6d93-4ebf-9cf0-7cee524fc3f1,Britni Beier,10,F,,
+96f96aaa-9f39-44e4-b8f4-7703893300a3,Adelina Walsh,10,F,,
+a25c136e-488b-41d2-9fc1-192843dbb214,Austin Beatty,10,M,,
+7a11fc72-f645-4452-85ed-19769d3d97b1,Soila Shanahan,10,F,,
+76c25daf-746b-4f48-9e45-5b96d3552330,Greg Kohler,10,M,,
+a03c0052-81e8-417c-a2e0-14fc03957b63,Nathanael Glover,10,M,,
+047ce05d-06a9-4d55-9b36-7aa5ddfbd7ac,Sachiko Stracke,10,F,,
+ea120e37-582a-4ccf-99ce-a09b8fd6ef5f,Shaunda Dare,10,F,"asthma, allergic_rhinitis","fluticasone, fexofenadine"
+7b321f32-8be8-4598-9d80-b1eb27c431da,Buck Homenick,10,M,,
+004a5922-7c4d-40cc-a0f8-68f607044c99,Keven Kuhn,11,M,,
+ecdfa659-f3d3-44d2-870c-a6c6a7fc68e1,Wilmer Walsh,11,M,,
+c69469aa-ce7f-41c2-b7d1-d0225785b645,Eddy Strosin,11,M,,
+2ace0244-1799-4ac6-b2f6-e0909d628d17,Wiley Parker,11,M,,
+280c458c-b8f0-4533-b7d1-3b2ac12fe950,Walker Kemmer,11,M,,
+20d01a18-36fc-40b2-8a1b-b69770017de7,Georgiana Goodwin,11,F,,
+ae7c8f51-9928-46a5-97d0-0e49e8282670,Rhiannon Champlin,11,F,allergic_rhinitis,fexofenadine
+e64822a6-404f-49f7-ae20-d08b3f597c29,Shaun Yost,11,M,,
+19c90f05-de8f-4c46-8611-399d322e8d45,Jospeh VonRueden,11,M,,
+02730055-3a05-4c6f-bfb7-c5862479d615,Yuri Reynolds,11,F,,
+f9b7b2f0-146d-48d4-ba99-49ba9db0a02f,Natalie Kuhic,11,F,,
+7cd2e9ba-158c-4e6b-bfe1-a3b7c2c1a36b,Brigitte Welch,12,F,,
+89999a3a-24b9-4144-baf7-9c698a5f85d9,Ozie Larson,12,F,"seizure disorder, epilepsy",carbamazepine
+12c4cc41-1d07-4a7f-9a1e-9092bd1a1794,Lauralee Hodkiewicz,12,F,,
+4ec0b725-0971-4a88-aff3-d270e740e9a5,Gregory Wilkinson,12,M,,
+b5fcea3e-2248-4045-945d-531fa938541a,Dick Bednar,12,M,,
+41ec5505-df3f-4e0c-9e4c-2cc7e152031e,Georgianna Boehm,12,F,,
+3e947bbe-36e0-43ee-bffe-1ebbe2e08b2b,Jerold Dare,12,M,,
+38364c57-80ce-4749-aed6-878cdff95379,Val McDermott,12,M,,
+5e04f001-ec85-466c-9f92-8b8db90fd7e8,Man Harvey,12,M,,
+bfa945bd-e93f-4263-a55e-2fafd92eda8c,Sammie Trantow,12,M,"allergic_rhinitis, asthma","fexofenadine, fluticasone"
+e489813c-d670-4b7c-9ee2-fb13f40caac1,Madeline Collins,12,F,,
+78b0dc72-9d89-493c-98fa-631d378604d8,Samual Yundt,12,M,,
+fb8233e5-bb4d-420b-ba06-7fd51be685bb,Elaine Hettinger,13,F,allergic_rhinitis,fexofenadine
+70d83feb-28fe-4241-84db-20fc48a30b55,Dirk Langosh,13,M,allergic_rhinitis,fexofenadine
+7e9c51cb-d8b3-4353-85f9-9e060e2155f2,Dixie Mayert,13,F,,
+fab682c5-4295-4d15-80eb-ce34b148d81f,Jonathon Braun,13,M,"asthma, allergic_rhinitis","fluticasone, fexofenadine"
+944fd22b-6925-45f0-b1c9-453bfe0ea73a,Marlyn Schowalter,13,F,,
+86813f0e-cac1-4e13-85c4-0d7d16f91c91,Kelle Kessler,13,F,,
+1fc76b14-c1e0-4c0c-b59f-56b5981b6821,Jonathan Douglas,13,M,,
+ae30d2dd-b070-461b-9882-4fdc85d8fb5e,Nathan Braun,13,M,,
+10fd692e-fdef-4aa6-b010-8a95005b59f1,Emil Weber,13,M,,
+0d3c7df1-38e8-4566-8b58-6a2735857ee2,Miquel Pouros,14,M,allergic_rhinitis,fexofenadine
+6e8b250f-3ce4-442c-96d7-08786c74a966,Jefferson Dickinson,14,M,allergic_rhinitis,fexofenadine
+32a468b4-b226-4a44-86bd-9d3d8c3dfcaa,Hector Macejkovic,14,M,,
+e032e78a-6868-43a8-bb1a-b2592a91c0c3,Modesta Muller,14,F,,
+ed7057c1-aa66-493d-ba7c-1f58fbcb241e,Miguelina Predovic,14,F,,
+05905f03-642b-48f9-9261-0f798b2055ae,Corina Krajcik,14,F,,
+00b7297c-9997-455d-b581-f1bd677f5012,Lucio Carroll,14,M,,
+83658dd2-6d01-49e8-8b95-f7f178e6a78f,Rufina Balistreri,14,F,,
+1b345dad-e9e7-41c2-8fca-9810b6304f45,Alycia Reichel,14,F,allergic_rhinitis,fexofenadine
+dd30a0b1-e81e-4148-a1d6-5debd15fbc0c,Herminia Stracke,14,F,,
+fa1e7bd9-93a9-4f27-8e39-0a81e2d318dd,Katharine Dach,14,F,allergic_rhinitis,fexofenadine
+34c72c77-01a3-4504-91a7-2d2e158e3f98,Ahmad Boyle,14,M,,
+39b7c59e-4476-4c97-8995-38e30a4f4dbc,Alec McDermott,14,M,,
+e62478b0-0d24-4f80-8ef0-21d15ebe6163,Percy Sanford,14,M,,
+10ce96ed-9091-45d4-b57e-677308af7479,Mohammed Larson,15,M,,
+068d8a6a-7b62-4a6a-afc0-1656c47bfe57,Aurea Block,15,F,,
+00d4fba5-9a5f-411a-9010-c970fb50962e,Colton Keebler,15,M,,
+a31319a7-7502-4c1c-adfa-cb957fb71d11,Queen Waelchi,15,F,"asthma, allergic_rhinitis","fluticasone, fexofenadine"
+ab163027-f86b-4571-8fff-2fd20391001b,Spencer Ankunding,15,M,,
+c366da60-5570-420a-acc1-928f658dc8c0,Ruben Douglas,15,M,allergic_rhinitis,fexofenadine
+84b0cebe-08bc-4e1a-a87a-7c43f98050ee,Phillip Spencer,15,M,,
+7e35175f-20eb-4739-ae75-7687b7503dde,Elly Bosco,15,F,seizure disorder,carbamazepine
+2c28b276-d622-4117-ba37-6ab59ddf59e5,Kathaleen Cummerata,15,F,,
+6de9fda5-570e-433b-a95e-aa09bfbcbc22,Arron Fadel,15,M,,
+06971e45-1d8b-40da-9eb5-9575c72516a4,Patrick Welch,15,M,allergic_rhinitis,fexofenadine
+cf792e44-3b0c-45b7-82ec-47605036fb60,Jackelyn Bradtke,16,F,,
+bc8af009-ec20-409e-813d-fba6a952a2ab,Soila Koepp,16,F,,
+e41ffd82-bdf3-40f8-8a64-08818306edd5,Willette Hyatt,16,F,,
+767338b8-cbde-4684-971d-254ac43cee0b,Nicolas Prosacco,16,M,,
+24de5840-c471-4436-93ef-3e5b3e905353,Jenifer Cummings,16,F,,
+8ba68805-5b3d-4fff-bf89-8c2999a313c0,Jewel Dibbert,16,M,"allergic_rhinitis, asthma","fexofenadine, fluticasone"
+0f9a8638-107d-40c9-8ea1-563827417a22,Lynwood Stehr,16,M,,
+eee0a193-5379-4f0e-abc6-9dd10973a86e,Lenore Swaniawski,16,F,,
+2d2ab5f0-7385-4358-b450-46901dbb021a,Barrett O'Hara,16,M,,
+cddc977d-f935-4ea8-aa78-213c36e6c550,Lyndon Pacocha,16,M,,
+d5878502-b66a-4bab-933a-d0eb217469bb,Andera Eichmann,16,F,allergic_rhinitis,fexofenadine
+f09164f1-53b0-4a61-bc89-59b60ca74f9e,Kory Sporer,16,M,,
+2ceb439d-986e-4672-8ef4-a253b33aad9b,Wade Denesik,17,M,,
+b9c751c7-70d8-494c-a6de-a51ff7a9a021,Andrea Tromp,17,F,,
+6345c9e0-4924-4af4-a6ad-516a17f75239,Renaldo Kshlerin,17,M,,
+9d8ade43-212f-4e76-b0d4-e1c3725bd5d6,Alfredo Halvorson,17,M,"asthma, allergic_rhinitis","fluticasone, fexofenadine"
+99df966a-fd10-404f-af2a-4529e1fca07a,Mohamed Marquardt,17,M,,
+58e023f8-2617-4154-87c7-1d6ba57e23f6,Lula Spencer,17,F,,
+9195dc4a-37c9-47f0-b0f3-1e6aad398de3,Dexter Waters,17,M,,
+b680a91b-db2f-4c20-a67c-3af1ee13454d,Dirk Waelchi,17,M,,
+698fa175-b284-4694-a6aa-49f199436917,Sara Pacocha,17,F,,
+46cf411a-cacd-4220-bc04-d385a1b6fba4,Lewis Upton,17,M,,
+d8915f00-abc5-48dc-b830-575fd28ac1f9,Sonny Hayes,17,M,child attention deficit disord,methylphenidate
+0a2ff52e-a77b-4df7-a01d-dfbbc446be21,Jefferey Schuppe,17,M,,
+5079c4d9-5182-4b2a-acc7-14d6d78d24b2,Johanne Rempel,17,F,,
+28b4e442-afe8-416c-b1a3-11a1e64bf82b,Merle Gaylord,17,M,,
+694d646c-de4e-483e-a80c-04d0bb7b7d02,Madge Glover,17,F,,
+a4c4a925-6ea4-498c-892f-6aa43469b0be,Lory Langosh,17,F,,
+459b6c2c-16ca-44e9-a232-6369b4a3daa7,Dustin Heathcote,17,M,,
+ec975f14-6b73-4f19-9e78-2486785a4c3f,Danial Erdman,17,M,,
+06e2e3ea-691c-4aea-9466-25f5681532b0,Zenobia Waters,17,F,,
+1b74791c-4223-4c9c-81ab-c8427e07484e,Helen Gulgowski,17,F,,
+adf999bf-21ae-4d32-b5c2-83e7095b774e,Cole Keeling,17,M,,
+4243c357-7791-4eac-a6db-4d18f561c910,Gala Carroll,17,F,,
+4b20abe1-4248-4c59-951b-fb2eb6587a3b,Demarcus Cormier,17,M,,
+dc27adaa-4991-46a3-bf98-c200c98bdb6e,Necole Cartwright,17,F,,
+04e7994c-d4e2-4f8d-8048-e7d36239a35d,Elvina Dietrich,18,F,,
+e6b176cd-0e1f-4028-a129-17f7d098abad,Vernita Doyle,18,F,,
+69c16bda-f9a1-4b8a-93f9-c4af43632d97,Stephine Moore,18,F,,
+7fc2a3ef-9093-4ebe-8607-ae8c0fb57f4e,Aurore Rogahn,18,F,,
+68d88ef1-f857-4d6e-acd9-8c44072c86f3,Felicitas Hahn,18,F,asthma,fluticasone
+70cbc79e-dd9d-4e3b-8158-a92d85951f94,Salome Lowe,18,F,,
+992a280b-bdeb-47fc-896d-1696155f6238,Megan Mitchell,18,F,,
+963d850c-2a18-445a-921c-0e04bb5b5a4e,Clement Schroeder,18,M,,
+f7ccb69b-54e3-4969-9d8c-4f75d481256b,Ashlee O'Connell,18,F,,
+2e89f65a-82c8-497a-9f4c-eca080b8ae1d,Lynna Okuneva,18,F,,
+2e89bba3-f825-4f25-b3bb-195b9b36b885,Laurinda Runte,18,F,allergic_rhinitis,fexofenadine
+c1647853-27ff-490c-83e6-ef0802c4070f,Erminia Schaefer,18,F,,
+fcd78b0a-148a-4681-858f-41d78f633e75,Isreal Rohan,18,M,,
+a481ba75-3513-46f8-afaf-ada97459e779,Rudy Cormier,18,M,,
+94c4fa7a-6740-4ef9-aec3-ab844e7f1978,Santos Wisozk,18,M,,
+d252b22e-a8f2-4f5d-8a3c-c5d2bd55ff48,Annalisa Flatley,19,F,,
+18fd14e8-8964-4b52-9481-2923f303c2bd,Mckinley Cartwright,19,M,,
+fdcc3ec9-f5bb-4422-92e5-2bfaab9a1040,Lizzette Johns,19,F,,
+59b35e65-47c6-4564-a0a6-c1b4403ae8db,Geri Hoeger,19,F,,
+16014a34-8dee-4402-89da-edf7884ae808,Manuela Predovic,19,F,,
+93e41e83-cf3f-41a4-a62d-ad7b7447b5d1,Enoch Glover,19,M,,
+bd040fcb-a29f-4661-8c0e-315a876e6636,Ashley Howe,19,F,,
+cfddd270-90d5-4894-a0fd-412e61822e6e,Yung Dietrich,19,F,,
+9fb519d6-fd96-4dc2-8444-803c6677c7e3,Dan Turcotte,19,F,allergic_rhinitis,fexofenadine
+267fc535-41e9-470a-89bf-7e49e6540a73,Eda Maggio,19,F,,
+69414e22-d080-4468-b13f-8f3531312ae9,Phillis Mante,19,F,,
+351bd6d9-f279-49a2-880a-6e4cd269e8bc,Leida Kutch,19,F,allergic_rhinitis,fexofenadine
+f91fa156-7a2e-44a4-a4c9-a1cc557e37d5,Teresita Douglas,19,F,,
+a0d4fa87-43ff-420e-a1a8-b7d1a40a992b,Conrad Kuhlman,19,M,,
+67e4f87a-7a66-4877-a76f-0f73f2e7d9be,Dirk Stoltenberg,19,M,,
+7a7d1ba4-2e57-4c55-81e6-1f3a37da6645,Dawna McLaughlin,20,F,"seizure disorder, epilepsy",carbamazepine
+7d4fe870-dab6-4ca4-b2ce-8353db786e86,Tyler Kertzmann,20,M,,
+642303e7-86bf-4ba7-ba84-391752520b59,Hana Brekke,20,F,child attention deficit disord,methylphenidate
+3a62944c-d83a-489b-b8df-5959725f1c8f,Fred Lind,20,M,allergic_rhinitis,fexofenadine
+9ec3c4fc-2b10-46dc-a766-8c4fe82c2332,Leena Kemmer,20,F,"asthma, allergic_rhinitis","fluticasone, fexofenadine"
+d0afb501-b444-4146-8747-abd110dc33b4,Elfriede Walker,20,F,,
+0a51828e-c916-46d8-b950-1b4ea9adf68b,Sonny Ondricka,20,M,,
+2dc13e4c-55e2-4560-9dac-5720e0cfffa2,Deetta Harber,20,F,allergic_rhinitis,fexofenadine
+093e7ac4-a049-4763-8782-a96c049188db,Houston Mayert,20,M,,
+c791ac11-8bb4-4f85-95a3-95e0b828b9fc,Bernardo Wiza,20,M,,
+fbf26aac-b0b9-4d72-8a6d-9b63d5aca2eb,Christal Sporer,20,F,,
+b8b461a4-998b-498f-9d7a-a5592c64c4cb,Lanelle Shanahan,20,F,,
+18e9f2ff-e9a9-48f4-a129-4a0e5c80c610,Lucrecia Sanford,20,F,child attention deficit disord,methylphenidate
+18ff4618-ff1b-4f09-a956-585443194e5b,Al Hilpert,20,M,,
+38e639a6-75ce-4e9a-bd87-c4a1874205d2,Darcey Conn,21,F,,
+f61960b3-267f-4cac-89e4-420b0b0a2cae,Lashandra Huels,21,F,,
+d5763d5a-669c-471a-9f81-c3bdcf4bde42,Melanie Schroeder,21,F,,
+d918094c-e971-487c-bcca-1b3ab214c18f,Hilma Rath,21,F,,
+bd6aee0d-8301-4bd4-a835-ffaae9e9bad1,Darla Crona,21,F,child attention deficit disord,methylphenidate
+b5d4780a-8c92-42e1-b7fa-02a6f808416e,Dean Wiza,21,M,,
+0e6da20f-4ba2-4f8a-86a5-9cf300c12e88,Bruce Nikolaus,21,M,,
+0464ecb6-c515-4933-bb8c-0c4e883c1782,Mervin Paucek,21,M,,
+1ed32c2d-b25c-4dd0-aefe-05131ac6c401,Abe Rogahn,21,M,,
+a0a43768-e1e9-48a3-88c4-910b3382d32b,Flor Thiel,21,F,asthma,fluticasone
+6e58695d-b4bb-48e3-9499-cf004745e8e8,Ima Hamill,22,F,,
+f1a7f586-1137-45f1-8530-c41820e465ce,Miguel Roberts,22,M,,
+af479757-136c-4d58-b6b9-dc6e239f375b,Lacy Swaniawski,22,M,,
+689e4bef-f975-4d6a-82db-6b82ec46ac49,Harriette Hessel,22,F,,
+8da9b8ed-4b32-471a-abc3-030fa75dd0e5,Laverne Cummings,22,M,"asthma, allergic_rhinitis","fluticasone, fexofenadine"
+18020ca0-37ad-4bce-9a73-57c0e3d9d17f,Margaretta O'Hara,22,F,child attention deficit disord,methylphenidate
+00630ce3-e8eb-4ed4-889b-2c0ac257cbf4,Tyree Eichmann,22,M,child attention deficit disord,methylphenidate
+3edcf3bd-963e-4752-9a68-4672cf0cd360,Stacey Pollich,22,M,,
+298d1db8-0c77-4561-8aa7-4eac884c2118,Doretha Weissnat,22,F,child attention deficit disord,methylphenidate
+7e5ec0c2-f269-48ad-b057-3338744d6290,Tamala Considine,22,F,"asthma, allergic_rhinitis","fluticasone, fexofenadine"
+06c36d78-53eb-45e6-936e-96145a959c14,Robt Vandervort,23,M,,
+d016bba3-726b-4be9-bee9-162cdacf9424,Joselyn Marquardt,23,F,,
+41f884e8-0e84-4f26-b606-4fee231b3812,Anderson Senger,23,M,allergic_rhinitis,fexofenadine
+fa76af8f-2af9-459a-b93f-270ab70b81bb,Rocky Nicolas,23,M,child attention deficit disord,methylphenidate
+b545c170-d612-420b-8540-23b6ceaf904d,Nery Dibbert,23,F,,
+b8cce48d-b558-4d8c-907f-4ede94580f0c,Karlyn Spencer,23,F,,
+bf14ddd5-3b3c-446a-ab40-23046af8394e,Suzanna Walker,23,F,,
+0583c5ff-17d3-431e-8b71-dd8638173280,Larue Johnston,23,F,allergic_rhinitis,fexofenadine
+f85d86cf-5655-458b-8788-0f367a8c65ad,Ivana Rowe,23,F,,
+1578da62-8fdd-4da9-b6fa-b01354d3378d,Charise Maggio,23,F,,
+5e72bf73-70fa-409f-946b-46cf034d62c3,Nathan Zieme,23,M,,
+a075ced7-f55f-48f2-927f-6fcb4f97e634,Sung Carter,23,M,,
+350ef5cd-f9b9-4026-8b73-8366e4e2f4fd,Mariam Crist,23,F,,
+056bbe38-8874-4820-91a2-4b84b46275b7,Hobert Von,23,M,,
+dd18658a-738a-4fec-aad5-513021f43464,Darleen Tillman,23,F,,
+e05b7410-ca77-4589-966b-7b8b47aedcca,Frank Flatley,23,M,"allergic_rhinitis, child attention deficit disord","fexofenadine, methylphenidate"
+147fac9f-0d17-4463-9d48-b8d2f567e012,Markus Mraz,23,M,,
+597dc729-3e27-42c0-adbb-ef4d0e6f5329,Tyrone Johns,23,M,,
+4018d54f-59f4-44bd-bcbf-94891a7e7ef8,Shantel White,24,F,,
+1284f5cd-c611-48e6-ad23-90fc765d7faf,Chun Kovacek,24,F,,
+e56c97b6-db78-4a0c-8efc-98ad63184b09,Bennie Hilll,24,F,,
+93bf1d37-7e3f-4d27-98c4-02e7c9d9c11f,Merle Ondricka,24,M,,
+ed36e4b3-b6fa-4799-99fb-c505bbe40060,Monte Kessler,24,M,,
+401fdd9e-2e9c-444b-a219-d1cc9fb271ae,Mariette Rice,24,F,,
+765701c0-cea1-4152-94b9-4ae1e0525b2e,Nu Haley,24,F,,
+cd840b2a-116f-4bae-84d0-a887af67e1e3,Monty Boehm,24,M,,
+c6a20cf7-dbb2-4d9a-bfa3-d832af608770,Cheryle Ondricka,24,F,,
+f74a293e-5da0-4c0b-99c3-d9e6a0d83331,Maude Daugherty,24,F,,
+3dfa5b75-d890-4635-9d5c-f04f9543b05c,Shon Nikolaus,24,M,"allergic_rhinitis, asthma","fexofenadine, fluticasone"
+5f1b2a07-33b7-4e42-83d7-e0c74545418b,Shawnta Erdman,24,F,,
+c351d66d-d63b-4138-b9ba-692f4032784f,Morton Schuppe,25,M,allergic_rhinitis,fexofenadine
+f82f53ac-b262-4625-ab96-1aee63e83af0,Viva Walker,25,F,allergic_rhinitis,fexofenadine
+2bd83e1d-08de-4687-bcd3-736e12cb8e8c,Stacey Connelly,25,M,allergic_rhinitis,fexofenadine
+9a960e80-27ee-4ee7-aa4d-bf41e34a08f0,Alfred Abshire,25,M,,
+4cca94ab-0c36-4503-881a-c908ab92da60,Alejandro Emard,25,M,,
+522662e9-a5ad-4bb6-ac30-5c0f3c882d8e,Dexter Mitchell,25,M,,
+4f1ae462-ab7d-4abb-b016-3da559de7014,Ladonna Reinger,25,F,child attention deficit disord,methylphenidate
+e1b0cb24-4826-461a-9737-4293710c60bd,Alesia Mraz,25,F,,
+4875c42e-7312-4606-8cec-656bc80af56f,Ardelia Braun,25,F,,
+94f98532-269c-4a9f-8a34-186d80a16a8e,Barrie Abernathy,25,F,,
+6ac90f2a-8898-4154-ad79-f590b3bf70bc,Ethan Little,25,M,,
+9f0771ae-c067-440f-a845-e3b4bc683d19,Kenneth Powlowski,25,M,,
+84fb04b1-f4a0-419b-afa8-8122d1e79f17,Dale Denesik,25,M,,
+296f8d3d-b0b5-4a34-8ee6-21430bcc96a8,Roger Ward,25,M,,
+9088ade6-0771-4a67-8c57-ce677fe6792d,Kacy Ziemann,26,F,,
+25abea9d-7908-4cad-87c4-fe44c72e9c77,Edgar Von,26,M,asthma,fluticasone
+db6649b6-9957-4904-9f49-b9270fda2410,Cleo Gleichner,26,M,,
+38382526-337e-4b6f-9d68-352557e932bc,Albert Lemke,26,M,,
+4a7594af-accb-4174-86e9-e72f83a19b54,Denese Emard,26,F,child attention deficit disord,methylphenidate
+95cb0a21-3e48-4dde-b9a3-022f7cd88ec8,Kory Klocko,26,M,,
+8225c966-0b13-4bc2-b1c0-4ee0b1776856,Soraya Russel,26,F,,
+6e3a29fb-706f-4d39-99d1-dbe447c9642e,Shawana Simonis,26,F,,
+134e5eb3-f56c-467c-9579-2fa17999edb4,Avelina Block,26,F,,
+c306703a-467e-4934-8165-16de97e3e391,Rosario Walter,26,M,,
+47776b09-06c1-4aba-8b6e-9c8f28f1bc3b,Jamar Durgan,26,M,,
+5945e28d-79ec-4d3e-828b-bcd247aec18a,Vaughn Connelly,26,M,,
+7ef088b2-6fae-4d68-b7cd-ec68c89608c7,Liza Ward,27,F,,
+84579084-1b3e-4b63-9601-4a435828e1d2,Augustus Parker,27,M,,
+a8f299d5-cbed-4c6e-a181-a7930a4eb05d,Melvin Crooks,27,M,,
+602eaf94-38f9-4258-817f-30640c41c24d,Shonta Mann,27,F,hypertension,amlodipine
+ed2b5733-700c-4c37-ba24-98026d05429f,Ayanna Upton,27,F,hypertension,amlodipine
+63a71764-eb08-4727-abfe-7884e25d3ac5,Fritz McGlynn,27,M,,
+2d66f0eb-7512-43a0-ab4d-13c9ee652899,Keith Hartmann,27,M,child attention deficit disord,methylphenidate
+0ed686b8-877a-430b-a1a6-5d0be2d6bebc,Pok Thompson,27,F,"seizure disorder, epilepsy",carbamazepine
+50cda3bf-a9b3-4716-a928-9b1c77fbdf7f,Ester Schinner,27,F,,
+ca4f941d-0a12-4fcc-b0fb-0e0838a45f5c,Siu Pagac,27,F,,
+8feeaaa1-a474-4668-89ec-b1a0f7071e0b,Hubert Baumbach,27,M,child attention deficit disord,methylphenidate
+edd56e80-f5e3-48d4-a9b6-d69e42e945ca,Conception Zboncak,27,F,hypertension,amlodipine
+f4a8bb95-c09a-498b-8915-beb35ac15290,Jeff Labadie,27,M,"allergic_rhinitis, coronary heart disease, child attention deficit disord","fexofenadine, atorvastatin, methylphenidate"
+0b81deef-90c2-458c-a5e0-4968432400ba,Merrilee Thompson,27,F,,
+a6ac0903-d6c9-4edf-a39b-d59564a6f6ba,Andy Hudson,27,M,,
+b8e0b512-7319-49f1-8e4a-bcb4dd2fb1ab,Wilber Braun,27,M,hypertension,amlodipine
+007cbcc1-7333-4c79-b5e9-ffa93822fa11,Lorri Simonis,27,F,,
+36637dad-9e2a-40c8-856d-6d03bf30c6c3,Val Thiel,27,M,hypertension,amlodipine
+9244dc28-46fb-4a15-97ed-f7800dae8b63,Miles Emard,27,M,,
+179ed81d-2a46-4b01-8648-524d49851077,Cleveland Willms,27,M,hypertension,amlodipine
+9369649d-f8d0-4c61-8749-93b0f95238bf,Kristi Oberbrunner,28,F,,
+9817dca2-4c71-4e49-8740-f3b413975245,Conception Quitzon,28,F,,
+bbbe2391-f249-4114-a510-3088189a1f8e,Willow Bauch,28,F,,
+ae0a67eb-c875-416f-8352-9277872c8621,Cesar Larson,28,M,,
+c8705bda-2cdb-4869-892b-7044e093556a,Tasia Anderson,28,F,,
+52f3fe85-4016-419d-8384-c2085564cb62,Leatha Legros,28,F,,
+a06d53f6-cbeb-4e0e-abbb-c22f249fccfe,Jere Spinka,28,M,hypertension,amlodipine
+1dc33f10-16ec-458a-be36-034eec650448,Carroll Mosciski,28,M,,
+db48dd16-26f6-48d0-a073-8dafb148311e,Kareem Watsica,28,M,,
+fba26ca6-bef7-4cae-8a91-1a5842bed09f,Bruce Lemke,28,M,,
+24d8f3fe-6164-40d7-ac12-c495b1563c93,Kiyoko Huels,28,F,,
+96c24a52-7df7-4022-a753-685639e1c922,Lindsay Kilback,28,F,hypertension,amlodipine
+a5a47120-5d81-4b66-8b80-b491eb0165a4,Matthew Davis,28,F,,
+95c6f072-a748-46b7-9c71-2a129cd1b93b,Ryan Keeling,29,M,,
+1c8fcd08-8e1c-4cc5-92fb-25c1bead62e3,Candida Rohan,29,F,,
+874eb7d6-fdaf-48ca-bf70-f5412b3cd48f,Camelia Boyle,29,F,allergic_rhinitis,fexofenadine
+7d930372-7a58-4940-ac33-cd6373720f4a,Myung Bahringer,29,F,"asthma, allergic_rhinitis","fluticasone, fexofenadine"
+fc45169d-e3e4-4cc3-b0ff-e5478fbcd55d,Alan Considine,29,M,chronic pain,pregabalin
+6469f0e9-5065-4ed7-abe3-73a9a7a9fd11,Warner Wisozk,29,M,,
+12300941-b493-4209-a752-86144f883b6c,Jessie Corkery,29,M,,
+5dd171f0-7c7d-49c1-8f6d-b6364a5fffe3,Broderick Frami,29,M,,
+98425d79-f1fd-4777-9733-fffb6e412b58,Patty Kreiger,29,F,,
+43e9397b-9aa8-4019-8d86-7de41c08765e,Garth Lockman,29,M,,
+5f7f5a3c-d2e2-4c7b-bea9-f86cd481ec0c,Ernie Fisher,29,M,,
+5836ad56-2e37-40ab-9d57-15680fbfa1ef,Britney Hickle,29,F,,
+4c0bdf93-44d8-4811-8d1d-7a7452751d39,Abbie Cole,29,F,,
+e497677a-79d0-43ee-994e-a365ee8c497a,Deeann Jacobson,29,F,allergic_rhinitis,fexofenadine
+6177c112-7ed3-4f7f-973c-f463014a7727,Gabrielle Wunsch,29,F,,
+5ead1353-03dd-4a68-a031-6c52e62d017a,Jerrod Mayert,29,M,,
+9b8cf115-9285-42c1-95aa-d030ebb03e09,Willis Bednar,30,M,child attention deficit disord,methylphenidate
+32b282b2-c6e8-4580-b90e-372dc7cf128d,Hector Ziemann,30,M,,
+b9804a51-714b-495f-96a5-7aa9d0bc3361,Stephen Predovic,30,M,,
+472bb184-f9a2-464c-af82-afa1f1f4a5a8,Tori Leannon,30,F,hypertension,amlodipine
+3834896d-bbe2-40f3-9bbb-48b42b9fa175,Brenda Steuber,30,F,,
+5338e62b-fe72-4d84-bdb5-4c9c8cca6c71,Emile Brekke,30,M,,
+1b2217d7-dec9-47a2-9d5f-bd26863db3d4,Mardell Emard,30,F,hypertension,amlodipine
+8011c20e-26ab-409e-83fc-4bdea7f6de5a,Ferdinand Armstrong,30,M,,
+9f7c6143-9a13-4fec-96fe-42053e8091c1,Kiesha Boehm,30,F,,
+2c6853fc-7469-4fe4-8ca9-da218b1ed2b4,Cecil O'Hara,30,M,,
+2b317149-bc38-4baf-a32b-8664eda3a59f,Chun Gislason,30,F,,
+9474e4e9-bd9e-4bb4-9e6c-f7509f851319,Lee Zemlak,30,M,,
+f7203657-7b0d-41d8-9823-b6ccd20c4fa0,Opal Franecki,31,F,hypertension,amlodipine
+270c0e53-38fc-4d7f-b93d-cfc7b8289597,Benjamin Schaden,31,M,,
+ec7e4fa0-1646-4459-a83e-125fc9803e4b,Ezra Padberg,31,M,hypertension,amlodipine
+4d99abd2-2a27-49a3-97dd-df1e5b67bad8,Martha Swaniawski,31,F,,
+0853f544-fdef-4464-8745-239cccfe94b2,Lavelle Vandervort,31,F,hypertension,amlodipine
+ab6d8296-d3c7-4fef-9215-40b156db67ac,Emmanuel Adams,31,M,,
+1d4a1257-366d-47c8-94f0-3f1d3be0845a,Gwenda O'Conner,31,F,hypertension,amlodipine
+9a515e6a-59e2-43b6-bd52-67e49a107ac4,Antonia Dickinson,31,F,hypertension,amlodipine
+23a9f6b0-0319-45ac-8876-45b84020a335,Abigail Bode,31,F,"child attention deficit disord, hypertension","methylphenidate, amlodipine"
+abda456b-0484-4596-b20d-0f8846e559d8,Adell Watsica,32,F,hypertension,amlodipine
+88ecf281-1ea6-48f3-9003-d11544ddb342,Amparo Mraz,32,F,,
+68f094bb-dd13-4a96-844a-9c509effd8de,Cira Tromp,32,F,,
+bb5a2c30-a164-4467-8b68-df7eef97c2b9,Faustino Huel,32,M,,
+23373822-718a-428f-aa11-e65d10947576,Annie Prosacco,32,F,"asthma, allergic_rhinitis, hypertension","fluticasone, fexofenadine, amlodipine"
+a111a5a6-e3ff-4611-965c-757c5a8c7f7d,Victor Abbott,32,F,hypertension,amlodipine
+7443d2b2-6444-4ae5-8ea5-1ed311c5433e,Melvin Pfeffer,32,F,diabetes,metformin
+4fbb994a-090b-4066-b11e-55079f04f82b,Danilo Feeney,32,M,,
+49bb8d33-d013-46dd-b72a-de0d207f98c5,Marx Robel,32,F,hypertension,amlodipine
+3ec0fd23-4d17-4ead-a3c4-eac056df6b1c,Karena Hettinger,32,F,,
+ac793c0f-9f85-4a3c-981b-dd28a693dde9,Stasia Cruickshank,32,F,,
+2c030c14-1cf3-46f5-9957-303b001689ae,Diego Mosciski,32,M,"coronary heart disease, diabetes","atorvastatin, metformin"
+23cc6bc8-5bfc-4c1e-902c-e7cb01a6c44c,Garry O'Connell,32,M,hypertension,amlodipine
+87828e93-e09b-435b-be8e-657361f1c68a,Bobbye Crooks,32,F,,
+eb62d6d0-fbad-4915-ba24-e78d9eec7ae3,Augustine O'Reilly,32,M,,
+86e532b6-5918-4f66-bf97-f6d22f329e7b,Kip Rogahn,32,M,coronary heart disease,atorvastatin
+f436e3f6-b2ef-4352-aef9-1b1563412b77,Reed Pouros,32,M,"allergic_rhinitis, hypertension","fexofenadine, amlodipine"
+1110aa56-e592-4a62-8383-9142cbab9e89,Neville McDermott,33,M,hypertension,amlodipine
+d1acabec-08c9-4864-96af-959360397de1,Elbert Gutkowski,33,M,hypertension,amlodipine
+e5033e7f-9797-4ee3-950c-6cc619d2c21b,Abraham Emmerich,33,M,hypertension,amlodipine
+8b0ae083-a89e-4bc8-99fe-4572da689e83,Felipe Weissnat,33,M,,
+09a8516b-465c-4fe1-b3cc-822fd9b3abff,Mason Lubowitz,33,M,,
+a8ba3d53-6c39-44cd-80ef-0305c75801e6,Murray Conroy,33,M,hypertension,amlodipine
+d9e0ea5d-ebab-45a4-8bf2-bd4298da9f7d,Cherri Schoen,33,F,hypertension,amlodipine
+9d8bc98e-fd62-4fd6-a5e7-0753f09e8cf9,Marisela Swift,33,F,"coronary heart disease, hypertension","atorvastatin, amlodipine"
+7bc35eeb-a9d8-4b3f-8392-3cf1209a2ea0,Isadora Moen,33,F,,
+210425f9-95b6-4620-bde1-385143d96dcf,Carl Hickle,34,M,hypertension,amlodipine
+7883e669-8f80-4051-83d3-4ef064534b9a,Ezekiel Oberbrunner,34,M,hypertension,amlodipine
+9a7b7520-3cc1-4d58-84a3-6e56f0a1b02d,Adam Pacocha,34,M,allergic_rhinitis,fexofenadine
+c7cd2bc0-3237-4bae-bce3-4f5e20a7887b,Laree Strosin,34,F,hypertension,amlodipine
+069e0012-5607-4e51-8eb8-4fb27a3fe136,Floy Miller,34,F,,
+a9197400-2bd4-4c19-876a-7ace3208bf78,Elvis Lockman,34,M,hypertension,amlodipine
+748441b4-a92d-411c-98f6-1d88816ba613,Leanora Heaney,34,F,,
+ef8342d3-26e9-4d5d-a472-946ebec965bd,Mandi Gutmann,34,F,"asthma, allergic_rhinitis","fluticasone, fexofenadine"
+c4fd7e14-d2e4-41f4-9b43-a00548e385de,Randa Kovacek,34,F,"hypertension, stroke","amlodipine, clopidogrel"
+2d8d1e13-8996-4572-a4c0-b2aed1551b68,Ingrid Waelchi,34,F,,
+7c0f0a44-69d8-4dc7-9d3b-b316e2f3e6aa,Telma Jakubowski,34,F,"allergic_rhinitis, hypertension","fexofenadine, amlodipine"
+f5690b1e-1fe3-4b47-bfa4-b71cb8e3a347,Chance Schamberger,34,M,hypertension,amlodipine
+1a7d9b7a-2b80-422f-9fd6-f9b69f3d6fac,Jefferey Schmitt,34,M,,
+47c42d2a-9939-492e-815a-8e0ec3d4e073,Frederic Crist,35,M,hypertension,amlodipine
+2fb0da81-5409-4060-8edf-d0c3fb17da56,Lindsey Lowe,35,M,,
+d8cb3f37-2060-482c-b026-5bb804c3679b,Markus McGlynn,35,M,hypertension,amlodipine
+8cb28a16-e6d3-4ff1-8673-f9f129949242,Julie Tromp,35,F,hypertension,amlodipine
+674ce427-5fc6-4231-b94c-ef8476da4476,Cinda Mann,35,F,,
+f759f9d7-97e6-486f-8fdd-ea20899c3abc,Chad Hartmann,35,M,"hypertension, diabetes","amlodipine, metformin"
+25779628-2a16-4698-811f-eb0eddb46d8b,Adolfo Schmitt,35,M,allergic_rhinitis,fexofenadine
+1ace7dab-900b-4d61-8f45-459fddb979cd,Son Hartmann,35,M,"seizure disorder, epilepsy",carbamazepine
+9016a427-917f-4729-ac9c-ef865f17f4d7,Augustine Erdman,35,F,,
+319d703f-f0a0-402c-8e5d-9da3f750210f,Fern Padberg,35,F,"hypertension, diabetes","amlodipine, metformin"
+af7cea78-f260-46ec-800e-e1f5ba6bff94,Thuy Luettgen,35,F,hypertension,amlodipine
+3bb2dd03-af27-4e2f-8ce6-bafac5082fe1,Harriette Schimmel,35,F,,
+17ac2a91-9629-4c6f-bbb4-9e462a453216,Joshua West,35,F,hypertension,amlodipine
+e0cc718b-fff9-4c25-8760-6a89239eb5f7,Keri Veum,35,F,,
+5ff83eda-a4ec-4e06-a813-5fee6a8a968a,Joan Dooley,35,M,"child attention deficit disord, coronary heart disease","methylphenidate, atorvastatin"
+7392154b-0c0e-4527-9053-cd12c6d2bfe5,Jennefer Grant,36,F,"hypertension, arthritis","amlodipine, naproxen"
+4d6e126e-b583-47a3-8841-68aa5dec3923,Keira Ondricka,36,F,diabetes,metformin
+a1a7fa23-7201-4705-b2a1-b423c0a882a2,Tuyet Abernathy,36,F,,
+7b170323-429e-447a-a175-5a128a320bcd,Valentine Jacobson,36,F,"seizure disorder, allergic_rhinitis","carbamazepine, fexofenadine"
+829571d1-f0f4-4324-a7a2-b4421d1d813c,Conrad Robel,36,M,,
+292804cc-8e4d-4437-8be1-4e309df5d8f6,Jackqueline Jenkins,36,F,,
+c6e7c17c-ab2d-4841-bab5-9c1dd68d57ce,Abel Graham,36,M,,
+6d4f6237-91b5-46ef-a64c-837acbf3a2b3,Dick Windler,37,M,,
+8ed58c42-7231-402a-8d9c-78d8012dfd0f,Angelena Kertzmann,37,F,hypertension,amlodipine
+1e467f5d-dd50-4004-9fe5-d2b626844fff,Terry Kuhic,37,M,,
+0318fe27-553c-468b-99fd-3272b0407f33,Yanira Flatley,37,F,"hypertension, asthma","amlodipine, fluticasone"
+eb4bb91a-915b-4793-81d9-1cf17ef71932,Dorla Wehner,37,F,,
+68e8e936-9ff8-42b6-bb0a-e74e7e2ecbb7,Rikki Osinski,37,F,,
+71949668-1c2e-43ae-ab0a-64654608defb,Elly Koss,37,F,,
+2f45abda-4bf6-495a-8451-a75522aa04da,Erick Senger,37,M,,
+2199f796-c662-4fe6-a93e-c99d6e9838af,Harold Kunde,37,M,"hypertension, asthma","amlodipine, fluticasone"
+c6d0a482-6cb1-4f69-b04d-971eb9ed6365,Cecil Gaylord,37,M,,
+4fb824a5-db50-40f6-a3a0-b02f43eddd22,Len Wunsch,37,M,,
+4e450f84-ae03-40ff-9692-4339ffa36b0c,Jerrold Ebert,38,M,hypertension,amlodipine
+7fa0746d-95e1-4ddb-9c1c-71a28da86572,Jettie Rosenbaum,38,F,hypertension,amlodipine
+e224f8af-c380-46a4-bc6d-3b59d6bb9e23,Delpha Schinner,38,F,,
+5d761208-d2b4-4569-b4d5-75882501cd83,Vinita Stanton,38,F,"hypertension, diabetes","amlodipine, metformin"
+7275dc64-7663-444d-bff1-f914ae597eaf,/1/1 Haley,38,M,allergic_rhinitis,fexofenadine
+dfcbc0b8-15f4-4525-aa18-a7a10102dd00,Will Mayert,38,M,,
+284a8aaf-5be0-4f6f-a80d-41b980047484,Sol Haag,38,M,,
+73af9cce-64b2-4fe0-b5aa-ab887d106f8c,Cassi Strosin,38,F,,
+9cd7b77b-317d-43c0-baac-1f4637cb9eeb,Ivy Schowalter,38,F,hypertension,amlodipine
+e0faa2d3-e354-47eb-9f50-43b7b570ed7d,Jame Mayer,38,M,hypertension,amlodipine
+6716d80d-5348-4e94-bc0a-ec5891b11db1,Florencio Turner,38,M,,
+ee7bc529-f806-4510-b5dc-016a4eb8fe36,Natosha Marvin,38,F,pulmonary emphysema,fluticasone
+6d7d6465-9734-4dc2-863b-de2855068971,Katrina Dibbert,38,F,asthma,fluticasone
+535f5462-9a5e-45e1-933c-3eafc1c242df,Alina Padberg,38,F,"hypertension, diabetes","amlodipine, metformin"
+4d17d4f2-3887-4c80-a097-6c26532633b0,Marcelo Mayert,39,M,"seizure disorder, epilepsy",carbamazepine
+18e12d26-17ac-4547-98e1-df962a14c0a6,Mauro McCullough,39,M,,
+34d518ce-e2e0-4175-8107-ce0c4e3ac48d,Rigoberto Heidenreich,39,M,,
+e99e58fa-d9cf-43e1-9d92-90d0a06ad396,Isaiah Bernier,39,M,,
+3f0e5d88-ebf3-4ca3-b968-b0d7707f9036,Yoshiko Wisozk,39,F,arthritis,naproxen
+d30b9faf-89f8-497a-b876-3c07c7be641a,Ira Deckow,39,F,,
+c7c72b89-0345-43c7-bd8b-1800e2adae66,Winford Jast,39,M,diabetes,metformin
+1fc91b4a-6dec-486d-9eae-87c4dfa3ec79,Fernando Huel,39,M,,
+7df55db7-8e29-4c27-a477-8ff9cd38ac3e,Hugh Kuhn,39,M,,
+6aea5829-a75f-44d6-a19d-ac3e6fd63b65,James Stracke,39,F,,
+d042ea87-a825-406d-b927-91de058ebfea,Garrett Funk,39,M,,
+1d0e18c5-b47c-4196-b1d4-93b141098ae1,Courtney Schaden,39,F,,
+9ed4362a-ec81-4bbb-a63e-eb5c4669e24d,Jesse Leuschke,39,M,,
+7a3ecd43-9c34-41e6-9acc-7244b391efd9,Kathi Hansen,39,F,hypertension,amlodipine
+f73d4196-a1da-41c3-b2a0-1d0623ba4627,Lacy Collier,39,M,hypertension,amlodipine
+593d889f-ee2e-4b9b-a043-80444ea0c721,Chauncey Lynch,39,M,,
+6c2fcf0b-63a5-4d82-a3fb-86197d57702c,Hazel Jacobi,39,F,,
+4f1861f7-9e36-4804-bb58-57c64d634b51,Thomas Altenwerth,40,M,,
+f0b80fe3-dd51-49aa-81d4-de2c6f8fe1cf,Nga Doyle,40,F,"hypertension, arthritis","amlodipine, naproxen"
+16abe0cd-862c-4ba7-988f-0cfcf9d73672,Jaime Eichmann,40,M,allergic_rhinitis,fexofenadine
+5977f93d-de9b-4d04-b387-e0f4d9ba7a13,Darell Dickinson,40,M,,
+828424fb-ce94-48bb-8c6b-db626060000b,Vincenzo Macejkovic,40,M,,
+ef79585c-aa02-491b-98d0-2e7408da5bc0,Eugenio Haag,40,M,,
+b350b118-f30d-4a9d-a006-56be45a4da13,Vikki Blanda,40,F,hypertension,amlodipine
+d5e11204-4c15-410e-a314-5bd02afa5bc6,Bennie Fay,40,M,gout,allopurinol
+4bb1c058-5218-42e0-b53e-07c1f5899ad1,Martha McCullough,40,F,hypertension,amlodipine
+f9933194-2ab6-46f9-a93b-4339dc292005,Hyman Dach,40,M,,
+defc94ce-0dbb-4901-9de6-fc71cf76dd68,Reginald Kozey,40,M,diabetes,metformin
+202c6ad6-8055-4144-a1e8-ce40c26a8262,Dean Gorczany,40,M,,
+6ace7b81-a04c-4424-9715-4168ab3e007c,Refugio Barton,40,M,diabetes,metformin
+a199572d-c0c8-4540-8d5b-12899c97008f,Lissa Carroll,40,F,diabetes,metformin
+045015c1-6525-4c77-ab3f-04f1ca41d0ea,Lanell Kris,40,F,diabetes,metformin
+690feab6-69b0-46e3-99ff-f8f94ec50af3,Benny Herzog,40,M,"allergic_rhinitis, asthma","fexofenadine, fluticasone"
+1a07c9ba-9c0b-486f-9cb6-3b71ce574e5a,Buck Kshlerin,41,M,diabetes,metformin
+2297617f-c6ce-4f63-9445-72527391a02d,Sherlene Murphy,41,F,,
+886491d2-deee-40ff-af8e-662f181ba617,Whitney Renner,41,M,,
+659e7dd2-6e20-4706-be35-d5b7b2e90987,Carley Schneider,41,F,diabetes,metformin
+8ab2b0e2-a751-4e2a-a5fb-d85ac1ceeeaf,Arlette Leuschke,41,F,"hypertension, diabetes","amlodipine, metformin"
+1b06a953-76f0-48fa-93f8-183bd355ec61,Charita Hamill,41,F,hypertension,amlodipine
+acc1ee6a-d4b1-4b8a-b63c-2ea21856e604,Whitney Hilpert,41,M,,
+1b364da6-6bdb-4c77-a5b2-26fe0b455621,Branden Zemlak,41,M,"hypertension, diabetes","amlodipine, metformin"
+f3317c4b-331b-427a-98eb-954eb31e3451,Marta Muller,41,F,,
+872611d9-53f7-4e95-8759-15717f36fe3a,Susana Kutch,42,F,hypertension,amlodipine
+8bd03f49-70ab-4877-b201-1a545831032d,Brett Schuster,42,M,,
+916e577c-9df3-46b1-a033-516402d7fdd3,Shantel Homenick,42,F,,
+90864f0d-7c27-4b7c-b7f6-15bfa16bee80,Bonnie Wisoky,42,F,hypertension,amlodipine
+e74e20b0-2830-4a0a-9234-182ba7083ba9,Lionel Nicolas,42,M,,
+8de6901f-8011-4b52-997a-76838ebf298f,Rob Pouros,42,M,"seizure disorder, diabetes","carbamazepine, metformin"
+a09bba57-86de-46a7-9a24-1147547921f6,Fidela Schoen,42,F,"diabetes, diabetic renal disease","metformin, insulin"
+04023065-4aee-4323-87be-9ffc6dbc79ed,Jocelyn Beahan,42,F,,
+e5d958bb-dcb1-4104-8f98-740a5f4c89fa,Trula Harber,42,F,chronic pain,pregabalin
+1a2305e5-686d-4fc1-9c25-691b63dadcab,Luther Barton,42,M,"hypertension, diabetes, diabetic renal disease","amlodipine, metformin, insulin"
+837fa233-74f3-4ef4-bb67-23e28b226063,Lillian Stark,42,F,"hypertension, asthma","amlodipine, fluticasone"
+330cd0e2-0b66-49b0-86cb-7ec776d499dc,Wendy Huels,42,F,diabetes,metformin
+72c25948-f5ae-49e1-885d-15dec717c4cf,Carl McClure,42,M,diabetes,metformin
+9d957940-1255-4b19-8665-94b66f8b7980,Mervin Kihn,42,M,,
+eea6b44e-06a7-4d68-86a7-5567799eef18,Javier Hamill,42,M,"hypertension, diabetes","amlodipine, metformin"
+23123dab-daae-45be-ac55-70523ad83111,Lani Maggio,42,F,,
+dfbd564e-cf52-447b-8a85-30cc5e1656b8,Kerry Schowalter,42,M,"allergic_rhinitis, hypertension, asthma, diabetes","fexofenadine, amlodipine, fluticasone, metformin"
+f240109d-2e92-4a24-88ad-e1878d114e08,Adriene Hudson,42,F,hypertension,amlodipine
+31a76e7d-7c4c-4528-be34-60518ee6eddb,Gricelda Hane,42,F,hypertension,amlodipine
+f3eae335-26f2-4080-a92f-f3d1ff5c24c6,Luther Schmeler,43,M,"hypertension, diabetes","amlodipine, metformin"
+f80828a0-e9c2-475b-a5fa-79bb017dbecc,Marianela Funk,43,F,,
+1e2bfd82-4d6f-4978-b34d-486e7ce1b2df,Julian Huel,43,M,hypertension,amlodipine
+5223b009-6dca-4cf7-984d-e6f3ca341a8e,Glenn O'Connell,43,M,hypertension,amlodipine
+6036aaf8-8007-4182-b005-11935ae65e3c,Adena Weissnat,43,F,"allergic_rhinitis, hypertension","fexofenadine, amlodipine"
+eb30da65-b0f8-4352-b0e8-faa04b294da4,Pearly Wunsch,43,F,,
+ee114a50-faca-49d0-83c7-583d6ac028aa,Lorean Gulgowski,43,F,,
+b2629a94-cbb3-4c5e-8b0b-ade00875ee64,Darren Predovic,43,M,hypertension,amlodipine
+0d5ab3da-4a13-41bc-8d7a-ed64bbdc93f6,Odell Olson,43,M,allergic_rhinitis,fexofenadine
+abe7c320-c8d7-447b-bbd7-f4e3268d3581,Merlin Roob,43,M,arthritis,naproxen
+b78252ec-a5b0-46e0-bf3f-4cfbae092b10,Joi Swift,43,F,"allergic_rhinitis, asthma, diabetes","fexofenadine, fluticasone, metformin"
+13e0d469-3e52-425c-8078-9e9098e0a015,Marshall Hagenes,44,M,hypertension,amlodipine
+edd7899b-c155-4028-85b1-e464ea61d031,Benito Wiegand,44,M,,
+d32bffda-fd9c-46ae-8868-9aef95439098,Percy Wunsch,44,M,,
+14a535a9-7421-4850-a0f9-1cba35958870,Orlando Cormier,44,M,hypertension,amlodipine
+1db96fae-3f95-4e2d-9e44-49b36d31d734,Ricky Becker,44,M,,
+0b328cb3-b1c0-495e-a619-58820365cef3,Loise Will,44,F,,
+6a93a88b-6069-4d1c-8127-2f557e8f0a46,Morgan Balistreri,44,M,,
+ca74c5b7-8401-42e6-b70e-0369c4041860,Andreas Bauch,44,M,hypertension,amlodipine
+cd6429e9-f19d-47e1-bdff-60c7e9b06987,Armando Witting,44,M,allergic_rhinitis,fexofenadine
+c4eb8448-28a2-4acd-be5b-a402242bc06e,Leisha Monahan,44,F,allergic_rhinitis,fexofenadine
+a1bf06e9-c0ed-4658-a8ea-ebefa6ad4108,Luis Wilderman,45,M,"allergic_rhinitis, hypertension, diabetes","fexofenadine, amlodipine, metformin"
+22ab8c28-3e4b-4f59-bbfa-42d22fba7820,Cory Fay,45,M,,
+52ec1028-03f6-49b8-b607-5d6a8dfb2fc0,Robert Stamm,45,M,diabetes,metformin
+e10ede91-09bf-4200-b60d-e0304934f40e,Abraham Balistreri,45,M,diabetes,metformin
+54803da7-7d6e-48c9-9550-2aff4fe246e0,Fernando Bartell,45,M,,
+90a81394-ba79-47d9-821b-59bce3bec742,Pia Ondricka,45,F,,
+06d10cd6-e8a5-45d9-bc9c-ffe71bea36d4,Mana Schiller,45,F,,
+63b2d7b3-c597-4ede-b477-9b0515799cc8,Akilah Haley,45,F,"hypertension, diabetes","amlodipine, metformin"
+0d65c062-9dbc-4518-a67c-2b3469bbc449,Janise Hackett,45,F,,
+e7888937-ceed-4d0e-aa10-4c6250ee6d51,Kiesha Klocko,45,F,hypertension,amlodipine
+239653d7-c3f4-46f9-ad1c-ceaf4b9c03b5,Sheree Cremin,46,F,,
+b7cba796-4b08-420a-97b2-10a0eff96afb,Siobhan Conroy,46,F,allergic_rhinitis,fexofenadine
+62fba42d-b528-41e3-a66c-51675fb92f42,Carri Ondricka,46,F,hypertension,amlodipine
+c2db0e15-73fa-452c-8abf-3512c952e48b,Julio Johns,46,M,,
+8ab484f0-8692-4576-98a4-ab890f1b2769,Shandra Lesch,46,F,hypertension,amlodipine
+1debf5a0-f786-4c78-8e4d-b48a565360c1,Lenore Gleason,46,F,diabetes,metformin
+571853a3-4710-469a-9cad-57f0e5d2f977,Bridget Greenholt,46,F,"seizure disorder, epilepsy",carbamazepine
+8e46caeb-74b1-4df9-83ab-7fee3b2d1790,Brad Cole,46,M,,
+dfd22f38-6436-42c3-ad9a-bd1ed48d7bd0,Elvie Runolfsson,46,F,diabetes,metformin
+dc5cbd5f-fb59-40dc-8f8c-7f77a3fd9c71,Stacia Greenholt,46,F,,
+349caf98-99b2-483d-81ef-46be5667273a,Alfredo Kuhn,46,M,,
+8932c969-cf87-4298-a2d8-7ac132950476,Stacy McLaughlin,46,F,"hypertension, arthritis","amlodipine, naproxen"
+ec16e3d4-6264-49e9-aeb9-ef2dd78d8361,Latasha Adams,46,F,,
+b6770dab-6757-4874-a5c7-7aef1f5e2e25,Roberto Haley,46,F,,
+0129dfc5-e04a-4771-9116-aee1739b25f9,Corrina Feest,47,F,,
+7195cdd5-e11e-4c9b-a82c-6cedea5713a6,Michaela Gibson,47,F,hypertension,amlodipine
+a6cfe61a-55e9-4d00-ba15-dcd83875c584,Loreta Emmerich,47,F,"allergic_rhinitis, asthma","fexofenadine, fluticasone"
+64a86dc6-2d33-4fca-af10-516bb494837c,So Beahan,47,F,,
+49d27eb9-1181-4d79-9771-32f79018def7,Colton Shanahan,47,M,"allergic_rhinitis, asthma, arthritis","fexofenadine, fluticasone, naproxen"
+b696c7d0-610e-4381-ba68-5836d9217d6b,Bennett Witting,47,M,hypertension,amlodipine
+31069b16-3fdc-488f-90a2-ff72dcc380c9,Maryjane Herzog,47,F,"diabetes, diabetic renal disease","metformin, insulin"
+12b4049e-3b55-4d55-9f65-093421fcc4f2,Tish Donnelly,47,F,,
+c4204728-f3b9-43c3-a5e4-3697ab1d2429,Nena Macejkovic,47,F,asthma,fluticasone
+acf49f99-211c-4c87-8294-0035272a8646,Tabetha Hamill,47,F,"hypertension, diabetes","amlodipine, metformin"
+d02f99c7-5914-4572-aeb7-b3eb0f117f00,Johnathan Sporer,47,M,,
+61b51a9d-9b4c-4da5-85dd-a11afaccfac8,Ellyn Block,48,F,hypertension,amlodipine
+48655c3c-fa41-4ae6-8c10-2c08a482c3ce,Norman Terry,48,F,hypertension,amlodipine
+5e8a81d8-e7f2-416b-afdd-c2f8faca1bb5,Bronwyn Rowe,48,F,diabetes,metformin
+0310e597-25eb-4412-af50-0cf0ff32b9ba,Rusty D'Amore,48,M,diabetes,metformin
+2e7fab8a-9074-4243-b395-86261176530e,Kay Grady,48,F,,
+fc5f5d8a-ae4c-4657-a1de-824519739a0d,Chance Lesch,48,M,,
+88e73ece-e999-4526-9934-0db67691a8c4,Lloyd Schowalter,48,M,"allergic_rhinitis, diabetes","fexofenadine, metformin"
+c95416a1-5c72-4588-9dd4-ff1959ef7687,Adam Lynch,48,M,stroke,clopidogrel
+737ed37f-8471-4975-9eba-46dc3f73cb4f,Omar Ziemann,48,M,,
+74eca5b8-8fdb-445a-a4a4-dc355563e914,Kristofer Cormier,48,M,,
+10f9d196-ac63-45bd-ad51-ee49294d17c3,Bryan Mayer,48,M,"seizure disorder, epilepsy, hypertension","carbamazepine, amlodipine"
+95bcb1ae-5e9b-4e0d-bb1c-e163761667c2,Evelia Windler,48,F,"hypertension, diabetes","amlodipine, metformin"
+bbbabb49-d611-4569-9804-82e7c1959137,Hector Bogan,48,M,,
+3bda8038-e158-4b07-ab06-42ec8a6a34f7,Olene Sanford,49,F,,
+50bc138e-189b-429d-a65a-8037d112d27d,Missy MacGyver,49,F,hypertension,amlodipine
+89ea126b-7b45-46f9-8099-46b13ebd76a1,Georgie Herzog,49,F,diabetes,metformin
+8347d9a9-80de-4929-9d15-df9b112ef9c5,Marquis Weber,49,M,,
+e6b504f8-f78a-4e83-980d-24f1cc7fd852,Deshawn Hamill,49,M,,
+049c6ff7-7ff9-4453-953d-4da11daa926a,Dale Leffler,49,M,diabetes,metformin
+f4d0cbdb-7965-47fc-abb9-428f8a11234b,Eufemia Eichmann,49,F,diabetes,metformin
+57029c04-71c3-4840-8c66-7586c47bfb3f,Jaye Schroeder,49,F,"primary fibromyalgia syndrome, arthritis, diabetes","duloxetine, naproxen, metformin"
+333bbb64-9099-48da-9b15-b3d0c45e927d,Corey Lesch,49,M,hypertension,amlodipine
+802e4305-78e0-423b-9604-69b5d2f9a759,Hobert Reynolds,49,M,hypertension,amlodipine
+c2cc147d-a113-4d82-8f82-4c43318d3c32,Dominic Bins,49,M,"hypertension, diabetes, coronary heart disease, gout, diabetic renal disease","amlodipine, metformin, atorvastatin, allopurinol, insulin"
+d8999ebd-e537-4faa-babd-cb6f5974b389,Roosevelt Breitenberg,49,M,,
+e60e911b-529c-4293-872d-50a5269531d0,Morris Zboncak,49,M,diabetes,metformin
+351f8498-39f6-45fe-84eb-abf4c8ff4f19,Jonas Cronin,50,M,,
+f0438525-1d1c-4e55-81c5-ab5b8d15e7e8,Marni Keebler,50,F,,
+7e4206bd-1d89-4744-8b82-21d31a1b25f0,Eloy Tromp,50,M,diabetes,metformin
+dde43be6-809c-4234-a2cd-0c24a5b11188,Rebecca Simonis,50,F,"hypertension, diabetes","amlodipine, metformin"
+1f794eae-2702-4cbd-920a-6874f2a3e1fd,Heath Doyle,50,M,,
+ceb7482d-f7f5-4b5c-83ea-2f7781b1ddfc,Jeanie Heathcote,50,F,,
+7e36aeb7-d5f5-4372-835e-3c904f1ce12c,Mora Hand,50,F,,
+fbf2dbaa-feba-454a-a289-f2569e31acf9,Manuel Streich,51,M,,
+c86495a8-a0e1-45e3-ad47-cac9f796c3a6,Lenard Schiller,51,M,,
+10d9fb05-d34f-4c49-a156-c0735f35856e,Clifford Bernier,51,M,,
+e757c343-8bf6-4ead-986e-64d40a270032,Nakia Hane,51,F,asthma,fluticasone
+2f1986fa-6469-4a67-b9cc-aba8ee4171ed,Anette Hand,51,F,,
+85f86417-b58b-4eaa-a180-f59c1569201e,Anya Kihn,51,F,,
+3bf81a59-6d29-4419-a1e3-0f467c4db51d,Verda Stehr,51,F,,
+b8115da8-7892-46de-8788-9ceff89d2a76,Filiberto Bartoletti,51,M,,
+dbd3794c-5ecc-47bc-8d6a-c8d60fbe9d31,Irmgard Krajcik,52,F,hypertension,amlodipine
+714e65e2-ff24-428c-9b5d-6510d1e7b8b3,Renda Botsford,52,F,,
+3f4eca54-1246-4102-bc36-c1cf53fe3dbb,Ula Little,52,F,"hypertension, diabetes","amlodipine, metformin"
+aeb239b1-0e23-417c-998a-c7c560856376,Ronnie Lindgren,52,F,hypertension,amlodipine
+ea785a1e-e5ba-447e-ae5c-3f06d2d43ad1,Emmanuel Kunze,52,M,hypertension,amlodipine
+283d2ef9-5877-44dd-ac62-2cc4c9e13ae0,Gwendolyn Ziemann,52,F,,
+3a57322d-d7c5-40cb-9cee-050f337b60ae,Judith Fay,52,F,,
+0f3ab4c1-3c4b-4441-b76f-7219f6de8096,Ron Stiedemann,52,M,,
+86082f75-6af5-4df0-a8f7-effd9bd68a58,Caryn Carroll,52,F,,
+fff429dc-1604-461c-9af0-25c2c9350759,Brice Jerde,52,M,diabetes,metformin
+3b01ceef-7fba-4c8a-89e3-d0ab6ffebe53,Lloyd Kemmer,52,M,"hypertension, diabetes","amlodipine, metformin"
+d6b93792-69d6-4cba-9b21-5168c213f9b4,Lai Ebert,52,F,hypertension,amlodipine
+dcfb02fd-43da-49aa-b536-96206defd74e,Ryan Hansen,52,M,,
+d6561c64-9f8f-433d-be69-7e4055a8a3e2,Dusty Wisoky,53,M,diabetes,metformin
+d49a5eff-ef3b-4ed7-a184-f6e9cc1f97a0,Scott Metz,53,M,,
+967a8fdc-667d-4c0d-a03b-c6d8d43c8b14,Hildred Schuppe,53,F,"diabetes, arthritis","metformin, naproxen"
+176c92b1-6417-4387-9639-424976e54065,Mickey Gibson,53,M,hypertension,amlodipine
+f40e5c2a-fbc2-4cad-b522-820381c1d65b,Ka Ferry,53,F,diabetes,metformin
+c86c24be-d5b9-4029-b7ca-9d846ae61653,Frederick Lang,53,M,asthma,fluticasone
+00341a88-1cc1-4b39-b0f9-05b0531991a0,Emmy Waelchi,53,F,asthma,fluticasone
+8c58ba25-fa2a-426e-bd6a-7e22877c2377,Darren Braun,53,M,,
+cda9a70b-87da-4fd1-87f9-9563be88e492,Chantelle Klein,53,F,"allergic_rhinitis, hypertension","fexofenadine, amlodipine"
+5b1a13c9-a75c-42ba-8a4c-39e4c1bf289d,Benny Smitham,53,M,"hypertension, diabetes","amlodipine, metformin"
+7f8a31f9-ea5e-4169-bd4f-326e582df4ed,Ivan Kovacek,54,M,hypertension,amlodipine
+b4f666dd-5f72-4bf6-98c1-f34528843c73,Macy O'Reilly,54,F,,
+3d39598c-82fd-43c0-8daf-56cd09346ca0,Lavone Turcotte,54,F,"hypertension, diabetes","amlodipine, metformin"
+601f35e1-c30e-444d-83cb-29e144c8d19c,Mallory Hintz,54,F,diabetes,metformin
+7346824a-b724-4169-8f33-b20b358724a0,Guadalupe Wolf,54,M,diabetes,metformin
+5d3cd1bc-8d05-4b5e-9a1e-6a43574ea4e3,Patrick Kilback,54,M,stroke,clopidogrel
+c8483126-6497-4896-a793-b37903c8a530,Dannie Considine,54,F,"hypertension, diabetes","amlodipine, metformin"
+c730688c-0add-41c1-85f3-2eb2dec1c8c7,Contessa King,54,F,,
+cbc3614c-8447-4810-8089-e7b57a70aa6c,Nanci Huel,54,F,"hypertension, arthritis, diabetes, coronary heart disease","amlodipine, naproxen, metformin, atorvastatin"
+b2301dc8-edc8-4e55-9433-592b83df7183,Raymonde Heathcote,54,F,chronic pain,pregabalin
+bbd7f47e-369e-4950-9f1f-13f9c4d9432d,Ed Graham,54,M,hypertension,amlodipine
+8bdc9712-dc35-4261-8bd8-8132364ae2c7,Eldon Ryan,54,M,"hypertension, diabetes","amlodipine, metformin"
+435b7f63-12a1-4281-9bee-5549cc0fe42c,Pat Balistreri,54,M,diabetes,metformin
+1362b7f7-27de-49c0-b4e2-66cbcf86d1c7,Felicitas Baumbach,54,F,hypertension,amlodipine
+7d5a76ac-774d-4bc1-8e66-13104086f467,Shona Hamill,54,F,diabetes,metformin
+5774e836-6d85-4fde-b1cc-2eb541c2cc5d,Hulda Brown,54,F,"diabetes, arthritis","metformin, naproxen"
+3a9052f4-2585-485b-a7c5-c6bb129f870f,Richard Tromp,55,M,,
+c8e2a83a-c07b-4f81-a79e-ea27a7d8cf37,Lyn Bashirian,55,F,,
+2d13177b-3b5f-499f-9dbb-d3c05bb99edf,Gil Marquardt,55,M,"allergic_rhinitis, hypertension, coronary heart disease","fexofenadine, amlodipine, atorvastatin"
+1b0b08fc-7d16-4adc-9331-acca6185a468,Trey Wunsch,55,M,"asthma, diabetes","fluticasone, metformin"
+495fcdab-b67c-4ea8-aaf5-2dcd6fbd6b6d,Alexia Hegmann,55,F,"allergic_rhinitis, hypertension, diabetes","fexofenadine, amlodipine, metformin"
+18a2d1c3-ec5d-4cdd-9a84-0311bc04adc5,Clora Veum,55,F,diabetes,metformin
+af70af78-65e6-4a36-9fc5-a6983319c586,Angelic Rath,55,F,"hypertension, arthritis","amlodipine, naproxen"
+3ca8e827-fce8-44f7-9b9a-c09b8d00afc6,Kris Wiegand,55,M,,
+5e34a365-4f0d-4ad0-910a-e321ef416fc7,Rodolfo Heathcote,55,M,diabetes,metformin
+405a3d5e-925c-4a1a-9a4b-14d4d214d03a,Dana Bayer,55,M,allergic_rhinitis,fexofenadine
+4c40df88-3ad8-4431-ba60-189e60e9578c,Lynelle Christiansen,55,F,"hypertension, diabetes","amlodipine, metformin"
+e82d0b7f-34be-44d3-8e13-4419cef18372,Pia Oberbrunner,55,F,hypertension,amlodipine
+31387087-3601-4bd9-92a1-4cc0bdc7fe58,Tawnya Graham,56,F,"allergic_rhinitis, pulmonary emphysema, hypertension, diabetes","fexofenadine, fluticasone, amlodipine, metformin"
+b70efe01-ce49-48f5-8297-a6e8646d6a01,Mckinley Wilkinson,56,M,hypertension,amlodipine
+3d85deaa-da76-4bc1-a7f3-b396d459f089,Darrick Bogisich,56,M,"hypertension, diabetes","amlodipine, metformin"
+6d980fe6-d187-4e36-b889-4f5f508c8f8c,Dion Auer,56,M,,
+3cda72f1-04d0-47cc-80d0-a86b12388983,Jarod Borer,56,M,seizure disorder,carbamazepine
+2a757704-2443-4de8-b658-8beb1ebce6c5,Lesli Gislason,56,F,diabetes,metformin
+4b406089-cb7b-46d7-accc-edb55dc0f792,Wade Volkman,56,M,hypertension,amlodipine
+b17f1837-0ade-45c2-8f0f-d788892ec3f3,Kaila Yundt,56,F,hypertension,amlodipine
+9ab16190-9e98-4d43-b22e-1c656de45f76,Aimee Toy,56,F,,
+cebf2535-931a-4d57-b596-7febe8d1bc58,Tarra Gerhold,56,F,hypertension,amlodipine
+3247fb56-d8af-450e-a370-926636c1daa2,Saundra Monahan,56,F,"allergic_rhinitis, hypertension, diabetes","fexofenadine, amlodipine, metformin"
+5898e0a8-96df-4e4e-b166-1ba0f0023e85,Tiffani Dickens,56,F,"diabetes, coronary heart disease","metformin, atorvastatin"
+ce1186fc-8b46-444c-9edc-877887f7c0a9,Brain Hudson,57,M,,
+59b4810f-8e7b-4f6c-9fd9-6e06d91bd184,Breana Senger,57,F,hypertension,amlodipine
+9943efb3-15d2-4225-ba54-0cb4d4478f6a,Latina Mayert,57,F,stroke,clopidogrel
+4035b14d-0f16-46e1-af7e-d01b0d2f464f,Florida Stark,57,F,"asthma, diabetes","fluticasone, metformin"
+79266ca2-b4e3-45e5-af65-7914bd4511a0,Maxwell Dietrich,57,M,"hypertension, diabetes","amlodipine, metformin"
+afd90cde-502d-466d-94ca-6e701c784825,Benton Dibbert,57,M,,
+401f0b8c-3e96-4de5-a9aa-c9bbe51b8407,Emelina Abernathy,57,F,diabetes,metformin
+81979c08-df99-4792-b608-65fcf28f4019,Orville Champlin,57,M,"hypertension, diabetes, coronary heart disease","amlodipine, metformin, atorvastatin"
+7c622c0e-58e0-4abf-91bd-b29fb0237bb4,Deane Kris,57,F,"seizure disorder, diabetes","carbamazepine, metformin"
+80ffa4a9-bde4-4229-8d3b-f2a50d349e2e,Alejandrina Labadie,57,F,diabetes,metformin
+05e7a71f-69b3-4269-81e3-370e2c889aaf,Yahaira Ortiz,57,F,,
+850aad6d-2efc-49d8-9898-34cfd3942722,Carroll Boyle,57,M,diabetes,metformin
+7b732e38-1ec5-4083-b195-3fad5240a358,Serafina Bosco,57,F,"hypertension, diabetes","amlodipine, metformin"
+d70ee654-da70-41d0-af60-7d236ba800a7,Astrid Schroeder,57,F,,
+900bed98-128e-4199-aca9-b0ec2b20cfc4,Alexis Bauch,57,F,"pulmonary emphysema, hypertension, diabetes","fluticasone, amlodipine, metformin"
+b753c784-a824-4041-bffd-4d8c85eca390,Heike Rau,57,F,,
+2b935fc5-120f-4f61-bd73-8e64f7d28e49,Lizzie Ankunding,57,F,diabetes,metformin
+15b536d8-47ea-4429-86bb-804266646fe1,Deeann Lakin,58,F,"hypertension, stroke, arthritis","amlodipine, clopidogrel, naproxen"
+65a438e3-b83b-4ce3-acb3-6e3d30dfff0c,Tracey Hansen,58,M,hypertension,amlodipine
+ec587d57-20b7-4083-a951-f46ab9a92db9,Kimberlee Feeney,58,F,diabetes,metformin
+99c08e13-78fc-4afb-82d8-16c3295d276d,Wilmer Denesik,58,M,,
+3d9ccc34-2888-4a0c-a953-0fc90cb6c61b,Jae Skiles,58,M,hypertension,amlodipine
+a29d4c82-cbf4-4905-bfb1-ac3a41fa621b,Herman Kreiger,58,M,diabetes,metformin
+8b9de29c-34c9-405f-840c-71b5210cf9e1,Nathanael Connelly,58,M,diabetes,metformin
+3763b69b-b5bf-4c0f-b24a-bee59c8a49f5,Arielle Nader,58,F,diabetes,metformin
+5955b04b-15c9-4303-a82c-2a94cee107b8,Hue Spencer,58,F,,
+046b0251-1cfe-4dd0-902b-e1e950a0601a,Yvonne Wolff,58,F,hypertension,amlodipine
+8adf6f3b-afde-4b24-b9af-af75597be9e0,Denise Tremblay,58,F,diabetes,metformin
+b97d9d9a-0aa4-4d89-9d2d-d96b878edefa,Dean Stehr,59,M,,
+a6f27ea2-ee82-4166-a4ee-9404d519d09f,Odell Monahan,59,F,diabetes,metformin
+f12b31fa-02ff-4c7e-b49b-597b9a4a7d6b,Fernanda Nitzsche,59,F,"allergic_rhinitis, hypertension","fexofenadine, amlodipine"
+7b062e3d-2e8a-48b8-8197-c86ece7c5fb2,Vincent Wyman,59,M,,
+95bb9d1a-99a3-4442-bf55-e5aa3db08122,Caron Volkman,59,F,"hypertension, diabetes","amlodipine, metformin"
+81a44b7a-532c-4bcb-90fa-c241cb67b95f,Tobias Mohr,59,M,"coronary heart disease, myocardial infarction","atorvastatin, clopidogrel"
+d3e282f5-ad55-4ed6-a805-526fdea6900a,Jerrell Tremblay,59,M,,
+65e956a9-ace1-4264-81db-f68323ea1332,Del Cremin,59,M,diabetes,metformin
+ce5f7896-1630-439f-888c-204f220a77ff,Jeanie Okuneva,59,F,,
+865efad4-c575-4ec6-bbc8-ad6e2a913b08,Terra Heller,59,F,diabetes,metformin
+30fc7dce-67d8-40ab-afd5-c805ddbbc670,Margarette Maggio,60,F,"hypertension, diabetes","amlodipine, metformin"
+1878558e-c270-434a-88d0-66cf66b2a581,Ronnie Nicolas,60,M,"hypertension, diabetes","amlodipine, metformin"
+bd0a8b29-cb4e-406f-85e5-489a20e80152,Eulalia Wiegand,60,F,"hypertension, diabetes","amlodipine, metformin"
+04090939-7263-4562-90c7-547d117113f2,Hayden Ruecker,60,M,,
+4c9d405f-9cb5-4313-95aa-65c2becf9def,Austin Waelchi,60,F,,
+44657863-a9ab-4844-a0c2-68618d37b003,Deshawn Gorczany,60,M,"hypertension, diabetes","amlodipine, metformin"
+4eb5eae3-3e72-4194-84d0-6e8ceb20992a,Jaunita Kemmer,60,F,"hypertension, diabetes","amlodipine, metformin"
+b31c9ae7-ba75-4d76-9017-8f6b1b1fdc8f,Weldon Murphy,60,M,"hypertension, diabetes","amlodipine, metformin"
+917523b1-3ebb-4111-a10b-96fcf8bb50ea,Orval Kautzer,60,M,diabetes,metformin
+5f44513e-be21-40f5-bdfb-aa2d09b57f3b,Ashlee Leannon,60,F,arthritis,naproxen
+6661113d-811e-49ed-9a97-682cf9ea577d,Akilah Fadel,60,F,diabetes,metformin
+3bce59e1-693f-4938-a6bc-2959009051d6,Olen Kris,60,M,hypertension,amlodipine
+08f05415-e63e-4502-8691-691b8f501bf9,Katheleen Larkin,61,F,,
+6d032ca3-b54d-474f-a513-b5941a38000e,Benito Nienow,61,M,,
+36ac8b34-ed7b-4457-9ce4-4eae497de0b0,Denita Nitzsche,61,F,,
+dd65ebe4-36fa-4c1b-85d9-1e54bee79917,Williams Torp,61,M,hypertension,amlodipine
+8b2ae30a-0669-4aea-a52a-c2379d87f6a6,Alycia Olson,61,F,"hypertension, asthma, diabetes","amlodipine, fluticasone, metformin"
+1e21fc0a-fa6e-4550-8d58-02c282c267bb,Dillon Lehner,61,M,,
+f012bc5c-f2e8-4867-9401-2f4c394994c4,Chelsey Balistreri,61,F,diabetes,metformin
+eb884e68-a03c-416f-9bbb-0d5651a6caaf,Wyatt Hansen,61,M,,
+9a2e3730-880e-46e0-9391-f2550c3d64a7,Dante Marvin,61,M,hypertension,amlodipine
+93a03a48-5f34-471d-9c67-5fc8a0b811eb,Cleo Hilpert,61,M,,
+a9fea7db-34d6-4ce5-93bf-d8aef3d62e45,Shanon Schiller,61,F,diabetes,metformin
+8736bc24-47ac-4c74-8402-110945be1536,Jimmy Sanford,61,M,"seizure disorder, epilepsy, hypertension, asthma","carbamazepine, amlodipine, fluticasone"
+47156907-3df4-4221-bf49-182f8279729d,Dan Waters,61,M,"arthritis, diabetes","naproxen, metformin"
+bff6a009-0150-42dc-9122-175a627966fc,Jammie Schiller,61,F,"hypertension, diabetes","amlodipine, metformin"
+8d968717-937a-4b4b-b6cf-7276ea8e861d,Carmelo Kirlin,62,M,"hypertension, diabetes, diabetic renal disease","amlodipine, metformin, insulin"
+7a36dd06-0363-4a3e-9d08-47feb4b2c3ce,Wei Cummings,62,F,,
+deb7aad1-1596-44f7-b603-7e04d3306845,Onita Collier,62,F,diabetes,metformin
+d4de2e7c-1a06-4821-9941-ebcfad04aa07,Zackary Marvin,62,M,"hypertension, arthritis","amlodipine, naproxen"
+07d3a526-25a4-4146-a478-405a96281799,Rosalind Mertz,62,F,diabetes,metformin
+4415c01e-ebc9-44de-80c1-d123c00509ae,Laci Heller,62,F,hypertension,amlodipine
+803cf5cc-2577-47e9-afbe-898b67171f56,Lizeth Ernser,62,F,diabetes,metformin
+3eb66f99-0afa-4e7e-9196-4f014f7754d0,Ernest Schulist,62,M,arthritis,naproxen
+384d7208-0574-4773-8b43-7af3ec8ffe6a,Donovan Blanda,62,M,hypertension,amlodipine
+3cc67187-9070-49de-8779-6829a198dbbc,Ima Murphy,62,F,hypertension,amlodipine
+56d5cf9f-d38f-4059-b41b-88951da55ad5,Douglas Treutel,62,M,diabetes,metformin
+b507a6c9-5534-40ab-9a31-f0a6feba1700,Randall Smith,62,M,pulmonary emphysema,fluticasone
+346854b6-9fa9-4ff4-9118-0b0926078df6,Scot Morissette,62,M,diabetes,metformin
+c072ab2e-2c88-4b6a-8843-2ee43839f24e,Celinda Boyle,63,F,"hypertension, diabetes","amlodipine, metformin"
+9c81882a-1691-4bde-99c6-13a0702a0cbd,Kera Wiza,63,F,stroke,clopidogrel
+851315ff-56ce-4022-b17f-c282ddb76372,Brad Hauck,63,M,"hypertension, diabetes, coronary heart disease","amlodipine, metformin, atorvastatin"
+6a755cbb-41e1-4081-a2f8-c383df44e440,Soon Sanford,63,F,arthritis,naproxen
+a6152b3e-ecfb-43b3-b021-147a89129ef6,Elmo Hagenes,63,M,,
+1a07334a-205b-4f08-9396-4c79b933dbdf,Arthur Daugherty,63,F,"hypertension, coronary heart disease, diabetes","amlodipine, atorvastatin, metformin"
+d0c4f0aa-5347-4923-a55d-0192f3f452eb,Courtney Torphy,63,M,"hypertension, stroke","amlodipine, clopidogrel"
+c488cc3e-862f-4046-b9dc-dc432934c92c,Clarisa Tromp,63,F,"diabetes, diabetic renal disease","metformin, insulin"
+b5670c0e-42e7-4875-91e9-221ab0fed251,Kyle Bernier,63,M,diabetes,metformin
+aea0aaf7-1292-4011-9448-771d7a84daaf,Charlsie Vandervort,63,F,,
+0c7fc6b6-90e4-4bb6-9282-13906f18009d,Vinita Hilpert,63,F,,
+cdd78c77-6e80-45af-af59-229a8689783e,Rod Kerluke,63,M,,
+700f9f8b-f5a8-4ae2-8f7e-84a565b85da8,Tommy Simonis,63,M,diabetes,metformin
+29f9a670-062f-4937-a639-cd54c42e98b4,Joette Satterfield,63,F,diabetes,metformin
+f24b754d-666f-4786-9eed-735a08ee334e,Diego Hand,63,M,"pulmonary emphysema, diabetes, arthritis","fluticasone, metformin, naproxen"
+cd96d791-09ca-4d08-a913-66a3559117eb,Elden Lind,64,M,hypertension,amlodipine
+239f2aeb-5c0d-4884-9e68-a6a2d6307b9a,Andres Parisian,64,M,hypertension,amlodipine
+134da316-4f69-4f5b-be39-2abf9eece271,Ivan Bernhard,64,M,diabetes,metformin
+9ef5a5d3-e6f7-40f7-a50f-08cad9a0e782,Willene Orn,64,F,,
+5c9eb9e5-705e-47d8-ad3e-24203e020bb4,Tereasa Reinger,64,F,,
+abf99602-7cb7-49db-9251-0499968c472f,Demetrius Dickens,64,M,diabetes,metformin
+29e87640-97a8-4df1-b19f-c24bf2b52cb7,Esmeralda Muller,64,F,"hypertension, diabetes","amlodipine, metformin"
+300108b5-1816-46ec-b6e3-7a716dc66656,Eldora Hane,64,F,hypertension,amlodipine
+68c93cbf-2886-4498-8257-9295bde4cb29,Sonny Metz,64,M,"diabetes, arthritis","metformin, naproxen"
+8aff4d2a-760e-49d5-a4b5-b282ae8c03ef,Clair Kassulke,64,M,,
+3da6d2e5-1587-4df7-aaac-c18306e2b3da,Olen Homenick,64,M,,
+e67b9845-d571-47eb-baaa-337c093d18f0,Katelynn Tremblay,64,F,hypertension,amlodipine
+5cfe1319-59ff-4cd4-998f-e3243509301e,Tamica Stroman,64,F,diabetes,metformin
+a1bd1f7b-6b22-4ba8-8d28-491f8d219117,Ahmad Fritsch,64,M,"coronary heart disease, diabetes","atorvastatin, metformin"
+27d3c718-96df-465f-b0de-227b958a3b67,Darnell Hermiston,64,M,"hypertension, diabetes","amlodipine, metformin"
+bb2c8d26-b208-46d5-a31e-62c20806694a,Bernard Parker,65,M,,
+f7d0a027-9b6f-40df-8f9f-1ff4591a559a,Antone Dickinson,65,M,hypertension,amlodipine
+ec3f626c-96bc-4e71-af2a-9c02fff2323f,Andy Harber,65,M,"hypertension, diabetes, coronary heart disease, stroke","amlodipine, metformin, atorvastatin, clopidogrel"
+9b277cdd-68e2-4d81-9a29-363c33ac81c1,Claudio Streich,65,M,"hypertension, diabetes","amlodipine, metformin"
+8c10f9bb-2db7-4eee-8fb7-29399d91ca5c,Parker Bartell,65,M,,
+499c45ef-5644-4762-b962-c19d3bef3a33,Particia Ward,65,F,,
+a55f459e-5e7b-4afe-b8f7-4bb71a7bfc4a,Whitney Nolan,65,M,"hypertension, diabetes","amlodipine, metformin"
+34f917e5-3088-4b5a-bad4-38cfa12d83c6,Lisandra Ondricka,65,F,diabetes,metformin
+932563cc-7bc0-46b3-8b36-d687202f0705,Shawna Lowe,65,F,diabetes,metformin
+4149177d-e735-4354-b705-77baff755e51,Dee Green,65,M,"arthritis, diabetes","naproxen, metformin"
+566a5db9-e974-41e0-bf37-040ca3196f61,Yevette Huel,65,F,hypertension,amlodipine
+2b2dc101-db91-4a39-9ba7-6c945c3add8f,Randall Wilderman,65,M,,
+e9e0d59d-38fd-471f-b132-20deaa51ac35,Chad Emard,66,M,"hypertension, diabetes","amlodipine, metformin"
+68b5cc90-e2ac-4d49-b1f9-17e673ccb080,Kelsey Skiles,66,F,"hypertension, diabetes, arthritis","amlodipine, metformin, naproxen"
+df3b048d-2a51-4219-bb34-a8ee058137d0,Emmanuel Douglas,66,M,"diabetes, seizure disorder, epilepsy, diabetic renal disease","metformin, carbamazepine, insulin"
+376e3dce-3f04-4d92-91a3-c525423c3579,Geoffrey Hauck,66,M,diabetes,metformin
+acf3577c-09bf-4817-93e2-96509c28f73c,Eugenie Grady,66,F,"allergic_rhinitis, asthma","fexofenadine, fluticasone"
+34488277-090b-4cd7-a835-dbc17bfb543c,Kelly Dach,66,M,"coronary heart disease, hypertension, pulmonary emphysema, diabetes","atorvastatin, amlodipine, fluticasone, metformin"
+88c1ee66-63cd-456a-b9db-49361ebf9143,Jeremiah Bogisich,66,M,,
+290cdddf-33bb-422b-b2bb-acd7dbc2482a,Alex Corwin,66,M,hypertension,amlodipine
+18ee6283-35ea-4868-bd88-18107741a791,Clifton Kirlin,66,M,diabetes,metformin
+c46e17a6-df19-4612-851b-fb0bb1acd82c,Carey Swift,66,M,,
+2e3420e7-1f2b-4da0-a170-cc7c8ffa8bef,Troy Macejkovic,67,F,"hypertension, diabetes, stroke","amlodipine, metformin, clopidogrel"
+56ba5465-75e4-421b-a2eb-3f881c1bd568,Rosita Frami,67,F,"hypertension, stroke","amlodipine, clopidogrel"
+0e03c55b-bd58-46d9-b3c8-f96241f82f5b,Donn Schowalter,67,M,,
+c614b1c3-f9e6-4541-bc88-d529b5e031c2,Austin King,67,M,diabetes,metformin
+78fedb62-f2a2-44ec-adaf-e0d2c382c498,Annelle Metz,67,F,diabetes,metformin
+54771870-08f0-4bef-9ef2-9abb0f036c7a,Cordell Heaney,67,M,,
+3a1adda3-22c2-4f90-a798-ab9414305017,Morris Maggio,68,M,,
+e05547ee-7969-478c-9970-fafbda8a63c2,Gilbert Bradtke,68,M,hypertension,amlodipine
+2cf29e18-be41-4f41-91f5-9ef778287ebc,Tobias Carroll,68,M,diabetes,metformin
+ae1961e9-b885-43ca-abbd-902cc13db479,Rod Hahn,68,M,hypertension,amlodipine
+0e9db90e-e07c-4269-b96e-d9f9df054dba,Ligia Gerlach,68,F,diabetes,metformin
+0645f237-3878-4175-aab9-b60713d24342,Dania Trantow,68,F,"diabetes, arthritis, diabetic renal disease, coronary heart disease","metformin, naproxen, insulin, atorvastatin"
+928b57ba-3408-46db-9d81-bd1460b2f35f,Sang Bauch,68,M,,
+d76fa1f0-b767-4cb7-b1d4-831140f2b7e9,Sima Nicolas,69,F,hypertension,amlodipine
+186ce071-096a-4eed-9c61-dd773ccf3830,Duncan Hammes,69,M,"hypertension, diabetes","amlodipine, metformin"
+edcc4ed4-876f-478d-9cba-e9b1f3bc9484,Eileen Kuhic,69,F,"hypertension, diabetes, osteoporosis","amlodipine, metformin, alendronic"
+6db3bb62-7ff1-4bb4-bd80-4b904e786b82,Reuben Bashirian,69,M,"allergic_rhinitis, diabetes","fexofenadine, metformin"
+08608e32-0dc5-43a8-ba12-99fbb8c9575c,Lissette Littel,69,F,,
+bea0b538-ce64-4158-9f0f-1b73442413e4,Doreen Mohr,69,F,"hypertension, diabetes","amlodipine, metformin"
+57d8c624-fc7b-4823-a06f-38586d6e18d7,Burt Considine,69,M,,
+be27bfec-d019-46b3-b58f-15c2435c67e7,Chiquita Hegmann,69,F,"diabetes, arthritis","metformin, naproxen"
+32342351-2ce8-4fd3-a721-fbcd033cd3a9,Julian Strosin,69,M,diabetes,metformin
+d3e36d07-d962-414d-bd6a-01db0065d159,Cheree Rice,69,F,"seizure disorder, epilepsy, diabetes, arthritis, stroke","carbamazepine, metformin, naproxen, clopidogrel"
+8166f08e-3fd7-444a-93b3-6d8b814aef1a,Octavio Grant,69,M,diabetes,metformin
+6a6e5035-401a-4ae9-a132-341cab0662ca,Alena Kub,70,F,"stroke, pulmonary emphysema","clopidogrel, fluticasone"
+07f3476a-6a5f-4ce5-88cb-e6b6f883d0fd,Maurine Kertzmann,70,F,"hypertension, diabetes","amlodipine, metformin"
+336ed443-193d-49a6-9eb2-6fe60391b9f5,Rene Bechtelar,70,F,"diabetes, diabetic renal disease, osteoporosis","metformin, insulin, alendronic"
+260e1f37-18b0-4f2b-9a2c-78645485bf1e,Maragret Purdy,70,F,hypertension,amlodipine
+2835c7ab-938a-4cdd-ba36-13486040c3ce,Natividad Stoltenberg,70,F,diabetes,metformin
+867ff303-0cbc-472b-ac70-0c7529fb72e9,Abigail Weber,70,F,hypertension,amlodipine
+e5e6332c-285e-4931-9818-5381d83dde03,Ozie Skiles,70,F,hypertension,amlodipine
+de17b23b-ab80-46a1-9a03-0745e1a62fb1,Nevada Parisian,70,F,"seizure disorder, epilepsy",carbamazepine
+bb526c1b-6e39-4662-968c-32a4381371a6,Yuriko Schumm,71,F,,
+da23b6e6-6cc4-4b62-81a0-3003a031699a,Doyle Doyle,71,M,,
+95a37592-7e13-4067-88d4-8540f873c858,Curtis Schroeder,71,M,"seizure disorder, hypertension, diabetes","carbamazepine, amlodipine, metformin"
+6f9e7973-579e-4b02-b754-1902021a80ac,Serina Robel,71,F,,
+8603c702-abcf-483f-a3db-a689564197c8,Floria Prohaska,71,F,,
+5b30f187-8b4e-4484-8c94-18b5cdb2151a,Kary Schmitt,71,F,"primary fibromyalgia syndrome, arthritis, diabetes","duloxetine, naproxen, metformin"
+e64b4fec-7ee7-4919-b583-5035fd294ab4,Joesph Runte,71,M,,
+44ffd048-a24c-42bf-a7fd-1c23437f508a,Ezekiel Herzog,71,M,stroke,clopidogrel
+7c508857-f346-49f3-993e-fb6d7ba9d66f,Lourie Crooks,71,F,"hypertension, diabetes, coronary heart disease","amlodipine, metformin, atorvastatin"
+8f1fc6b4-1879-4577-8b94-7f4b8abf7efe,Damian Schultz,71,M,"hypertension, diabetes","amlodipine, metformin"
+6b0a38fe-6757-4ddd-89e4-5bf5de9e6cb2,Michele Balistreri,71,F,"hypertension, diabetes","amlodipine, metformin"
+73f084cb-ef47-4418-8ce3-34cd248fe1c6,Lala Homenick,71,F,"hypertension, diabetes, stroke","amlodipine, metformin, clopidogrel"
+7cbb1089-cf27-49f9-b421-4a1f186571f4,Alphonse Carter,71,M,diabetes,metformin
+a41a08a6-54c7-4d35-bf5d-1031c0bffb8e,Suk Hartmann,71,F,"diabetes, alzheimer","metformin, donepezil"
+18a293e7-fffb-4189-ac31-7eb05fb5805a,Ozell Armstrong,72,F,arthritis,naproxen
+b2a3b4de-2403-4919-a31f-0558c8442ea0,Robena Mraz,72,F,"hypertension, diabetes","amlodipine, metformin"
+6cd38531-97d8-4307-8522-41438a9282a0,Neely Keeling,72,F,"diabetes, primary fibromyalgia syndrome","metformin, duloxetine"
+7c9216fc-047d-411a-9e03-c7e543a30760,Herbert Schuppe,72,M,diabetes,metformin
+9418df23-b718-41f9-a468-f5670d586830,Ashlee Lynch,72,F,,
+c5b93aca-10a6-4416-8ba1-7f9d67c2fc15,Tiffany Mertz,72,F,diabetes,metformin
+3630abb3-e44f-48ff-b599-26c86d1e1cce,Milan DuBuque,72,M,,
+7aadb940-f355-49b6-866e-eb0545caa7f8,Blanch Barrows,73,F,,
+3a33ad14-8b02-4e89-b3c5-d8c7715cd5a5,Ernestine Rutherford,73,F,diabetes,metformin
+8c092dc2-e640-47b0-abd8-9fa327c469e6,Bradley Kerluke,73,M,"hypertension, chronic pain, stroke","amlodipine, pregabalin, clopidogrel"
+9c12e468-7511-44a8-88dd-26687412bd59,Julee Buckridge,73,F,,
+d5f60387-5cbe-4dab-bd83-fc2ab89076e7,Lorine Bayer,73,F,diabetes,metformin
+a8096eed-d4a0-4b35-a13a-dde4e82c5e7e,Frankie Lubowitz,73,M,"hypertension, diabetes","amlodipine, metformin"
+c1fe2029-0bb3-4634-9725-90760a63cc3f,Belia Yundt,73,F,,
+d1449e3d-b9a5-405f-9bac-2e39250b14eb,Neal Eichmann,73,M,diabetes,metformin
+8772ca86-5853-46f5-9179-e2351feb22a6,Muoi Kuhlman,73,F,"hypertension, primary fibromyalgia syndrome, arthritis","amlodipine, duloxetine, naproxen"
+6a3169e5-03a4-4db4-945b-ec288da2edec,Haydee Bernhard,73,F,"diabetes, primary fibromyalgia syndrome","metformin, duloxetine"
+3f1def21-1ade-4b63-ba48-2febd9f27560,Larue Brekke,73,F,"hypertension, diabetes, stroke, arthritis","amlodipine, metformin, clopidogrel, naproxen"
+5f7eb9d9-2366-4737-9c35-0f15ef849a02,Patrick Lind,73,F,,
+0419b689-ddaa-45aa-abdc-64e321cb5c03,Vicente Hermann,73,M,"allergic_rhinitis, hypertension, asthma, diabetes","fexofenadine, amlodipine, fluticasone, metformin"
+e8402ec6-a7bc-4cfb-a08d-1f5d28bd1cca,Samuel Predovic,74,M,"arthritis, diabetes","naproxen, metformin"
+b8be5954-5143-442d-8c4d-1bc05ab32fda,Martin Harris,74,F,"allergic_rhinitis, hypertension, asthma, diabetes, osteoporosis","fexofenadine, amlodipine, fluticasone, metformin, alendronic"
+fc94c4b3-a114-4c28-a8e8-0f890b674b22,Sal Huels,74,M,diabetes,metformin
+b213b9fd-f91d-44a1-83ec-b6f11bdbffd5,Marcos Carter,74,M,diabetes,metformin
+34fac7c1-3a47-4ca3-9d80-3c933b736260,Billie Stiedemann,74,M,arthritis,naproxen
+7ccc59eb-31b1-4d6a-a5eb-b3367d0a18ec,Emanuel Kerluke,74,M,,
+ecdec4e3-194b-4e49-8baa-f20c8fdef087,Fritz Hettinger,74,M,diabetes,metformin
+cfa57bf0-706f-4668-afb0-5f145bb8919c,Jules Barton,75,M,coronary heart disease,atorvastatin
+777054f0-44b8-4e39-8c57-442fa9e3ee64,Bernardo Volkman,75,M,,
+1dc16f0d-f0e6-4885-b8d4-46c484dd2f4f,Alena Witting,75,F,stroke,clopidogrel
+345da1d3-9830-49c7-b01a-f4935320be4f,Cami Gibson,75,F,"hypertension, diabetes, arthritis","amlodipine, metformin, naproxen"
+1c98e059-e068-4cef-86e2-80bcab08a6a8,21-Jan Koelpin,75,F,hypertension,amlodipine
+cb653c5e-8f76-4568-b475-7a969819672a,Bernardo Lakin,75,M,"hypertension, diabetes, stroke","amlodipine, metformin, clopidogrel"
+eafb0264-5c27-4a92-97d3-119c67a5defb,Vito Ankunding,75,M,"seizure disorder, hypertension, diabetes, diabetic renal disease","carbamazepine, amlodipine, metformin, insulin"
+855da053-4209-459c-b14b-bd9055ea8119,Shemika Goldner,75,F,"diabetes, arthritis","metformin, naproxen"
+8c40d76c-5bea-4f62-8885-ebb8b3b2411f,Arica Greenholt,75,F,"diabetes, diabetic renal disease, osteoporosis","metformin, insulin, alendronic"
+7620b7d9-1764-46a1-b509-5ef92d4f4899,Herbert Graham,76,M,"diabetes, coronary heart disease","metformin, atorvastatin"
+ad7d3821-8829-4f0e-abb1-6e7322c6ecb6,Karon Gislason,76,F,"hypertension, diabetes","amlodipine, metformin"
+85b06f9d-ea2e-4419-9672-071361693fb5,Aurelio O'Hara,76,M,,
+29c6eb5a-27c0-49e5-8814-c71b153c5226,Claud MacGyver,76,M,"hypertension, diabetes","amlodipine, metformin"
+a26e97d0-1c71-45d0-bc1e-eb2c34865823,Mose Anderson,76,M,osteoporosis,alendronic
+1726d29e-bca3-4841-adc4-1d1a192c4e32,Reva Schmeler,77,F,,
+3f16df24-c47f-4b37-a735-e32d5a4c5839,Rosendo Hodkiewicz,77,M,"asthma, osteoporosis","fluticasone, alendronic"
+a1dcb798-f523-4d7f-a731-acc7f72a4803,Octavia Klein,77,F,"hypertension, diabetes","amlodipine, metformin"
+ed7c707c-4515-45d9-a56f-84db538137a2,Wesley Lemke,78,M,diabetes,metformin
+3a9bdcf7-a44d-43ac-a1e6-092e9a810ee3,Royal Turcotte,78,M,diabetes,metformin
+af9cd97a-f11a-469a-8781-84e88ac83774,Willis Legros,78,M,"diabetes, coronary heart disease","metformin, atorvastatin"
+5e1d7145-e7ab-4cce-8645-d2d99d929079,Jasper Ernser,78,M,diabetes,metformin
+29679b20-ae48-4f77-b601-d941e1c54bac,Temika Goyette,78,F,"seizure disorder, epilepsy, stroke","carbamazepine, clopidogrel"
+21315576-0847-427d-a1b2-bb143b23ae38,Kyra Bode,78,F,"hypertension, osteoporosis","amlodipine, alendronic"
+44e4a771-6f44-4ab4-98a9-03936e514b45,Benito Reilly,79,M,,
+daa72f50-f8e5-4c31-910a-9560384e209a,Anneliese Williamson,79,F,"hypertension, diabetes, osteoporosis","amlodipine, metformin, alendronic"
+6e02734a-bc19-43ed-ae89-1ada0a9d1652,Anamaria Mraz,79,F,arthritis,naproxen
+62b28409-3a8d-4f88-872d-ffca2f45766c,Tony Heathcote,79,M,hypertension,amlodipine
+42f817cc-edf8-464a-90e8-a673effb4290,Nelson Jast,79,M,"arthritis, osteoporosis","naproxen, alendronic"
+5af73924-32f9-4a3e-b0cc-9989832a2a03,Sylvester Gibson,79,M,"diabetes, arthritis","metformin, naproxen"
+ee9ca91c-ba0c-4976-a040-529dd4a48235,Jeremy Goodwin,79,F,diabetes,metformin
+07092071-fbf1-4e30-a37d-f379ca7e2068,Kiesha Tremblay,79,F,"hypertension, diabetes","amlodipine, metformin"
+61931a1d-f4ca-4890-958d-cb0b233d73b1,Fidela Barton,80,F,,
+36f4c48d-3cf0-4168-a1aa-98eb1a3091dd,Coy Wilderman,80,M,"hypertension, arthritis, coronary heart disease","amlodipine, naproxen, atorvastatin"
+1ae54a7d-a7d4-4d34-8dcc-2e83784e4a8e,Marion Runolfsdottir,80,M,"diabetes, pulmonary emphysema, gout","metformin, fluticasone, allopurinol"
+d75cf1bc-ad40-40f7-95a4-723014dcee82,Gayle Harris,81,M,"diabetes, osteoporosis","metformin, alendronic"
+bb9e2b9b-468c-471f-9e77-9dc424dcce7c,Alfonzo Smitham,81,M,"arthritis, alzheimer","naproxen, donepezil"
+c09b2b62-feca-40e0-ba72-edcda0d0f15e,Marge Brown,81,F,"diabetes, arthritis, osteoporosis","metformin, naproxen, alendronic"
+ebd9448f-a5fe-45a0-a1a7-133aba420d03,Christian Maggio,81,F,,
+bb37785c-2684-4be2-95ec-45d9be2ae84e,Nyla Heathcote,81,F,diabetes,metformin
+d53ed29a-ace1-45bb-bb74-210592805067,Rossana Lind,81,F,"diabetes, arthritis","metformin, naproxen"
+86d3a30a-05f5-4685-aec5-f44b1e5a54c5,Darnell McCullough,81,M,diabetes,metformin
+3d392eab-9c13-4201-9f13-e1ca412f6dac,Tony Kessler,81,M,"hypertension, diabetes, coronary heart disease, pulmonary emphysema, stroke","amlodipine, metformin, atorvastatin, fluticasone, clopidogrel"
+b310e814-20ab-4ffb-b46b-840ff1a83519,Sheridan Kling,81,F,"hypertension, osteoporosis","amlodipine, alendronic"
+81a48ea8-cd41-455e-a0d4-95eeacd26b91,Myrtie Reilly,81,F,arthritis,naproxen
+df9d72bc-f1f1-4618-8728-609ac0dfb516,Maryetta Bayer,81,F,"arthritis, diabetes","naproxen, metformin"
+4181515b-7aae-4b95-9999-422448e00536,Delilah Kuhic,81,F,"diabetes, stroke","metformin, clopidogrel"
+de0553a4-ddf1-43c3-a864-f4de9da4fe86,Jenette McGlynn,81,F,stroke,clopidogrel
+b51b9b64-e3c7-4201-a83e-9994173e2e55,Jazmine Rau,82,F,"hypertension, stroke, coronary heart disease, alzheimer","amlodipine, clopidogrel, atorvastatin, donepezil"
+41693b9f-9585-43c8-bfae-ef391dec3d79,Veronika Abbott,82,F,"seizure disorder, epilepsy, diabetes, osteoporosis, arthritis","carbamazepine, metformin, alendronic, naproxen"
+6ce5af7a-8ff2-4bbb-ab39-ff58d1b80c09,Natalie Green,82,F,"hypertension, diabetes","amlodipine, metformin"
+066d7354-b75a-45aa-a221-754e10ff2d18,Mathew Windler,82,M,,
+bc2ce9f6-b005-4f7e-b153-67cbabeebce3,Nickie Nicolas,82,F,"hypertension, diabetes, stroke, osteoporosis","amlodipine, metformin, clopidogrel, alendronic"
+e5abd2a9-9bc1-405d-9f3b-03cec7752508,Trudi Murray,83,F,"diabetes, osteoporosis","metformin, alendronic"
+4c64d3de-c5ad-4246-b3cf-0c631a5bee59,Dora Homenick,83,F,,
+e8db300b-850e-45be-865d-77982737cb9e,Marvin Lebsack,83,M,"diabetes, diabetic renal disease","metformin, insulin"
+a9ed94fe-bd52-4ba8-a9c2-d8b90c49f13f,Gus Labadie,83,M,"osteoporosis, coronary heart disease","alendronic, atorvastatin"
+a2bce15c-3fe8-44d5-a68b-b353f1cd0a1c,Percy Reynolds,83,M,diabetes,metformin
+b1315bef-34c3-4d90-a81d-11bd6d68c7e7,Efren Kozey,83,M,diabetes,metformin
+b0e9ee3c-300c-4faf-9ba7-88af9ed7c272,Clelia Quitzon,84,F,diabetes,metformin
+0579d517-c531-4b96-9539-8c618ea02f57,Charlene Mann,84,F,"diabetes, osteoporosis","metformin, alendronic"
+3c049790-24b6-4c63-bd54-3f19d3c67ea5,Season Franecki,84,F,"diabetes, arthritis, alzheimer","metformin, naproxen, donepezil"
+487dfea9-4823-4467-a336-6d1c1dbec198,Tracey Jacobson,84,M,hypertension,amlodipine
+952180eb-b076-4881-8702-f1cbc20693ab,Chi Crist,84,M,"diabetes, osteoporosis","metformin, alendronic"
+6e09f851-718e-4e49-9888-53cc094b5fbe,Lionel Lueilwitz,84,M,"diabetes, coronary heart disease, osteoporosis, myocardial infarction","metformin, atorvastatin, alendronic, clopidogrel"
+a4c81b9c-ef47-4207-ae64-39c8bf8976ad,Nathanial Kuvalis,84,M,"hypertension, diabetes, gout","amlodipine, metformin, allopurinol"
+7d53d260-ab42-47b7-b574-e4a841b9f426,Shoshana Tillman,85,F,arthritis,naproxen
+baa2a6e5-4cf2-41b0-89eb-63ed56a84441,Darcy Strosin,85,F,arthritis,naproxen
+96b24072-e1fe-49cd-a22a-6dfb92c3994c,Jacquelyn Shanahan,86,F,"diabetes, diabetic renal disease","metformin, insulin"
+357c4996-7893-4a4e-b0e8-8ab16588b282,Tabitha Baumbach,86,F,"hypertension, stroke","amlodipine, clopidogrel"
+23071b13-4b39-4f41-8082-b78097ab2a74,Chris Hamill,86,F,"diabetes, arthritis, alzheimer","metformin, naproxen, donepezil"
+42b6c3e8-91ed-4713-9403-bc88211f2cda,Victor Walter,86,M,"hypertension, diabetes","amlodipine, metformin"
+300d1ab4-1432-4264-acfb-e016bd1d2ff3,Stacy Morar,86,M,"seizure disorder, hypertension, arthritis","carbamazepine, amlodipine, naproxen"
+05fa913b-3cd1-4702-8f4f-2faf137c38d1,Ronnie Sipes,87,M,"hypertension, diabetes","amlodipine, metformin"
+068771f7-2835-42a8-9f45-02b59627bd84,Alfonso Wisozk,87,M,arthritis,naproxen
+676d0e61-bb2d-4c9e-8465-3f485f083571,Adina Olson,87,F,"hypertension, diabetes, arthritis","amlodipine, metformin, naproxen"
+4c12d1cb-e615-4e22-b247-be5b8ca68938,Deanne Kilback,87,F,osteoporosis,alendronic
+3966ef2e-43fe-403d-81d2-67770ef887e7,Renna Lind,87,F,"diabetes, osteoporosis","metformin, alendronic"
+ded25ed0-536b-4ad2-b5f6-f34e4956b104,Pasquale Crist,87,M,diabetes,metformin
+fc54d845-803d-4ec8-89b0-55bd620f8b0f,Kim Kshlerin,88,F,"hypertension, diabetes","amlodipine, metformin"
+01290832-65db-488f-9d67-50e3a6d468ea,Dale Pacocha,88,M,hypertension,amlodipine
+a94327b7-a1ca-468c-8202-4fbf165f629c,Alethia Zulauf,88,F,"hypertension, stroke","amlodipine, clopidogrel"
+4a2d4fdd-23bd-4428-9ae1-2e8dbdd8ac92,Livia Williamson,88,F,"hypertension, diabetes, arthritis","amlodipine, metformin, naproxen"
+9fdc58d1-742d-4b60-8513-c676f647b39a,Eleanora Reichert,88,F,"diabetes, coronary heart disease, alzheimer","metformin, atorvastatin, donepezil"
+d44559c6-3b5e-44a7-b2b0-ba9de11920b0,Timothy Corkery,88,M,"diabetes, coronary heart disease","metformin, atorvastatin"
+2ea22141-9eb1-486a-ab9e-dae30e4f9178,Julian Jacobson,88,M,osteoporosis,alendronic
+698c6e47-70e4-4086-8de2-89de2655967b,Lisette Hansen,88,F,arthritis,naproxen
+bcc6577e-d51a-4071-9f22-ccb45f6db2f3,Jerome Rosenbaum,89,M,diabetes,metformin
+dcc90d9d-2b71-4db9-a92e-a2cefce6c796,Retta Ankunding,89,F,diabetes,metformin
+a861c69e-0e42-45a5-bf05-ac194682ba87,Scotty Schultz,89,M,"hypertension, arthritis","amlodipine, naproxen"
+ef908718-ee1a-4dcd-b055-2970b5852101,Arie Kunde,90,F,,
+e73f3814-3988-44a6-befb-88bbd2028735,Craig Predovic,90,M,"hypertension, arthritis, diabetes, stroke","amlodipine, naproxen, metformin, clopidogrel"
+6ac5602a-cf18-4e55-8bbb-a6cde2451945,Jimmy Marks,90,M,diabetes,metformin
+26dc866f-0123-496d-9f4e-232e04b4357a,Delana Ernser,90,F,"diabetes, stroke","metformin, clopidogrel"
+3adee4d3-583d-4909-bcfc-acd338ef1af8,/1/1 Cormier,92,M,,
+b8d06309-71da-4e17-896d-4f05833dc51b,Adrianna Wilderman,92,F,alzheimer,donepezil
+6037897f-27d1-4da6-a07b-809017680490,So Carroll,93,F,"diabetes, osteoporosis, stroke","metformin, alendronic, clopidogrel"
+299a069f-9235-4558-a636-81e6b6417140,Warner Anderson,93,M,"hypertension, diabetes, stroke","amlodipine, metformin, clopidogrel"
+b7902ae0-ce01-41ee-ae1b-b3fc88eed4be,Khadijah Keeling,93,F,"stroke, osteoporosis","clopidogrel, alendronic"
+dd9a84a6-e60e-4c32-9372-b849144b016f,Rhea Greenholt,93,F,"diabetes, alzheimer, osteoporosis","metformin, donepezil, alendronic"
+1131717c-e009-446d-b353-0b865cbb4194,Seema McGlynn,93,F,"hypertension, osteoporosis","amlodipine, alendronic"
+462abede-dc9a-4928-a120-0449155d6ada,Elenora Ankunding,94,F,"hypertension, diabetes, osteoporosis","amlodipine, metformin, alendronic"
+6e687318-9491-4453-8877-da816d835499,Raymundo Rau,94,M,diabetes,metformin
+c0cb1ff4-8fbe-4f93-990d-abf62284cb4d,Chan Schaden,94,F,"hypertension, diabetes, stroke, arthritis","amlodipine, metformin, clopidogrel, naproxen"
+b1943aad-500b-4b22-8da8-b4d9c667c763,Travis West,95,M,stroke,clopidogrel

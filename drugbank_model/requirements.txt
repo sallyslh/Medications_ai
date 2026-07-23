@@ -1,0 +1,18 @@
+# Core inference requirements (needed by Django)
+# Pinned exactly (not >=) to match the versions complete_drug_model_system.pkl
+# was trained with in Colab (scikit-learn 1.6.1). See requirements.txt at the
+# repo root and drugbank_model/loader.py for why this must not drift.
+pandas==2.2.3
+numpy==1.26.4
+scikit-learn==1.6.1
+joblib==1.4.2
+
+# Optional: only required if the ADR (adverse reaction) transformer model
+# is present at DRUGBANK_ADR_MODEL_PATH. adverse.py fails gracefully and
+# returns "None" for adverse-reaction predictions if these aren't installed.
+# transformers>=4.35
+# torch>=2.0
+# accelerate>=0.24
+
+# Only required to run training.py or gradio_app.py (never at Django runtime)
+# gradio>=4.0
